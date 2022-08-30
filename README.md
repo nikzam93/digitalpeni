@@ -1,5 +1,3 @@
-# Juncture
-
-Juncture is a web service that renders interactive visual essays from plain text files.  
-
-[Documentation](help)
+# Digital PENI (Post-Environmental Natural Infranstructure)
+  
+More info and posts soon...
