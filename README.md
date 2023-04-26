@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 
-## Ρομαντισμός στα Επτάνησα {href=/pομαντισμός}
+## Ρομαντισμός στα Επτάνησα {href=/pομαντισμός-στα-eπτάνησα}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
 
