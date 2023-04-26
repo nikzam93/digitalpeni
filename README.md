@@ -6,28 +6,28 @@
 
 # Πρώτες δεκαετίες 19ου αι.- Μεσοπολεμικά χρόνια [1920-1940] {.cards}
 
-## Αρκαδισμός {href=#}
+## Αρκαδισμός {href=aρκαδισμός}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 
-## Νεοκλασικισμός {href=#}
+## Νεοκλασικισμός {href=nεοκλασικισμός}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 
-## Ρομαντισμός στα Επτάνησα {href=#}
+## Ρομαντισμός στα Επτάνησα {href=pομαντισμός}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
 
-## Ρομαντισμός στην Αθήνα {href=19c/19c-darwin-biography}
+## Ρομαντισμός στην Αθήνα {href=pομαντισμός-στην-aθήνα}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
 
