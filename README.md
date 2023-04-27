@@ -1,4 +1,5 @@
-"Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα logo=[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org) sticky
+".ve-header Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα 
+ logo=.ve-header "Essay Title" logo=https://raw.githubusercontent.com/juncture-digital/juncture/main/static/images/juncture-logo.png url=# background=#5B152E
     
 Η παρούσα μετά-διδακτορική έρευνα πραγματοποιείται από τη Δρ. Νικολέτα Ζαμπάκη, Μεταδιδακτορική Ερευνήτρια του Τμήματος Φιλολογίας του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών, υπό την επίβλεψη της κα Πέγκυ Καρπούζου, Επίκουρης Καθηγήτριας Θεωρίας της Λογοτεχνίας του ιδίου Τμήματος και Πανεπιστημίου. Θερμές ευχαριστίες στην ομάδα των Jstor Labs και ειδικότερα στον κο Ronald Snyder για την τεχνική υποστήριξη στην παρούσα έρευνα. 
 
