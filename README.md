@@ -1,4 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" logo=https://digitalpeni.org/images/NKUA_logo.png sticky
+logo=https://digitalpeni.org/images/NKUA_logo.png sticky .ve-header "Ψηφιακές Οικολογίες" 
 
 #Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
 
