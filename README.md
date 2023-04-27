@@ -1,6 +1,6 @@
 wc:Rosa_%27Unicef-Rose%27#/media/File:Unicef-Rose_(Kordes_2005).JPG
 
-.ve-header "Ψηφιακές Οικολογίες" logo=https://digitalpeni.org/images/NKUA_logo.png sticky
+.ve-header "Ψηφιακές Οικολογίες" [![](https://digitalpeni.org/images/NKUA_logo.png){style=height:80px}](https://en.uoa.gr) [![](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png){style=height:60px}](https://juncture-digital.org) 
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
 
@@ -24,4 +24,3 @@ wc:Rosa_%27Unicef-Rose%27#/media/File:Unicef-Rose_(Kordes_2005).JPG
 ## Ρομαντισμός στην Αθήνα {href=/pομαντισμός-στην-aθήνα}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
- 
