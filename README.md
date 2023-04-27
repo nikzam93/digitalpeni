@@ -11,17 +11,14 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
 
-
 ## Νεοκλασικισμός {href=/nεοκλασικισμός}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
  
-
 ## Ρομαντισμός στα Επτάνησα {href=/pομαντισμός-στα-eπτάνησα}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
  
-
 ## Ρομαντισμός στην Αθήνα {href=/pομαντισμός-στην-aθήνα}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
