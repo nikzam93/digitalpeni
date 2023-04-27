@@ -1,7 +1,6 @@
 wc:Rosa_%27Unicef-Rose%27#/media/File:Unicef-Rose_(Kordes_2005).JPG
 
-.ve-header "Ψηφιακές Οικολογίες" [![](https://digitalpeni.org/images/NKUA_logo.png){(https://en.uoa.gr)}
-[![](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png){(https://juncture-digital.org)}
+.ve-header "Ψηφιακές Οικολογίες" [![](https://digitalpeni.org/images/NKUA_logo.png)[![](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
 
