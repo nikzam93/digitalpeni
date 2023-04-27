@@ -1,4 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:Acanthus_mollis_у_Лондане.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky (https://en.uoa.gr)
+.ve-header "Ψηφιακές Οικολογίες" wc:Acanthus_mollis_у_Лондане.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
 
@@ -11,25 +11,18 @@
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
 
 ## Νεοκλασικισμός {href=/nεοκλασικισμός}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
+ 
 
 ## Ρομαντισμός στα Επτάνησα {href=/pομαντισμός-στα-eπτάνησα}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
+ 
 
 ## Ρομαντισμός στην Αθήνα {href=/pομαντισμός-στην-aθήνα}
 
 ![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+ 
