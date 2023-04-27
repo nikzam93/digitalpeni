@@ -1,4 +1,4 @@
-.ve media wc: Rosa_%27Unicef-Rose%27_Kordes_2005.jpg
+wc:Rosa_%27Unicef-Rose%27#/media/File:Unicef-Rose_(Kordes_2005).JPG
 
 .ve-header "Ψηφιακές Οικολογίες" logo=https://digitalpeni.org/images/NKUA_logo.png sticky
 
