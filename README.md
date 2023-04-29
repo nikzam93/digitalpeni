@@ -10,7 +10,7 @@
 
 #### Αρκαδισμός {href=/aρκαδισμός}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/0/09/Nature_View_3.jpg)
 
 
 #### Νεοκλασικισμός {href=/nεοκλασικισμός}
