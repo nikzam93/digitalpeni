@@ -2,7 +2,7 @@
 
 ![](https://digitalpeni.org/images/jstor-labs-photo.jpg){style=height:100px}
 
-![](https://digitalpeni.org/images/osf_logo.png){style=height:1000px}
+![](https://digitalpeni.org/images/osf_logo.png){style=height:100px}
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
     
