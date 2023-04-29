@@ -4,10 +4,8 @@
 
 ## Αθανάσιος Χριστόπουλος {href=/Αθανάσιος-Χριστόπουλος} 
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
-
 
 ## Γιάννης Βηλαράς {href=/Γιάννης-Βηλαράς} 
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/17/Athanasios_Christopoulos_%28Imerologion_Skokou_1888%29.jpg)
 
