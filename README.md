@@ -1,4 +1,6 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:Acanthus_mollis_у_Лондане.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky logo=digitalpeni.org/images/Jstor%20Labs.png sticky
+.ve-header "Ψηφιακές Οικολογίες" wc:Acanthus_mollis_у_Лондане.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky 
+
+logo=digitalpeni.org/images/JstorLabs.png sticky
 
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
