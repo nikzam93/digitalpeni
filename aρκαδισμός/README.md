@@ -8,5 +8,5 @@
 
 ## Γιάννης Βηλαράς {href=/γιάννης-βηλαράς}
 
-![](https://digitalpeni.org/aρκαδισμός/vilaras.jpg) right
+![](https://digitalpeni.org/aρκαδισμός/vilaras.jpg)
 
