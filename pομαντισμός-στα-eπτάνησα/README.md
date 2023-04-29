@@ -2,7 +2,7 @@
 
 # Ρομαντισμός στα Επτάνησα {.cards}
 
-## Διονύσιος Σολωμός
+## Διονύσιος Σολωμός {href=/dιονύσιος-σολωμός}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Solomos_portrait_4.jpg)
 
