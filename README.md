@@ -20,17 +20,17 @@
  
 #### Ρομαντισμός στα Επτάνησα {href=/pομαντισμός-στα-eπτάνησα}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/8/89/Simonis_%26_Buunk_%E2%80%93_Pieter_Hendrik_Koekkoek_%E2%80%93_A_view_of_a_park.jpg)
 
  
 #### Ρομαντισμός στην Αθήνα {href=/pομαντισμός-στην-aθήνα}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
 
 
 #### Αντι-ρομαντικές τάσεις στην Αθήνα {href=/aντι-ρομαντικές-τάσεις-στην-Αθήνα}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 
 
 #### Παρνασσισμός και Συμβολισμός {href=/παρνασσισμός-συμβολισμός}
@@ -40,10 +40,9 @@
 
 #### Συμβολισμός και Μετα-συμβολισμός {href=/Συμβολισμός-Μετα-συμβολισμός}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg)
 
 
 #### Μοντερνισμός: Υψηλός Μοντερνισμός και Πρωτοπορία (Υπερρεαλισμός) {href=/Μοντερνισμός-Υψηλός Μοντερνισμός-Πρωτοπορία-Υπερρεαλισμός}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
-
+![](https://upload.wikimedia.org/wikipedia/commons/d/db/Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg)
