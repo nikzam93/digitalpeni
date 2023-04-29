@@ -8,7 +8,7 @@
 
 ## Νίκος Καμπάς {href=/νίκος-καμπάς}
 
-![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/nikos_kampas.jpg)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/nikos_kampas.png)
 
 ## Γεώργιος Δροσίνης {href=/γεώργιος-δροσίνης}
 
