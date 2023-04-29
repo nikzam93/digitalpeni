@@ -34,7 +34,7 @@
 
 ![](https://digitalpeni.org/Συμβολισμός-Μετα-συμβολισμός/kariotakis.jpg)
 
-## Τέλλος Άγρας {href=/τέλος-άγρας}
+## Τέλλος Άγρας {href=/τέλλος-άγρας}
 
 ![](https://digitalpeni.org/Συμβολισμός-Μετα-συμβολισμός/tellos_agras.ong)
 
