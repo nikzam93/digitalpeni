@@ -1,6 +1,6 @@
 .ve-header "Ψηφιακές Οικολογίες" wc:A_pair_of_white_rose_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky 
 
-# Συμβολισμός και Μετα-συμβολισμός {.cards}
+# Συμβολισμός και Μετά-συμβολισμός {.cards}
 
 ## Άγγελος Σικελιανός {href=/άγγελος-σικελιανός}
 
