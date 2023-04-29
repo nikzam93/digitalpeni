@@ -6,7 +6,7 @@
 
 ![](https://digitalpeni.org/aρκαδισμός/xristopoulos.jpg)
 
-## Γιάννης Βηλαράς {href=/γιάννης-βηλαράς} 
+## Γιάννης Βηλαράς {href=/γιάννης-βηλαράς}
 
-![](https://digitalpeni.org/aρκαδισμός/vilaras.jpg)
+![](https://digitalpeni.org/aρκαδισμός/vilaras.jpg) right
 
