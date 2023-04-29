@@ -15,7 +15,7 @@
 
 #### Νεοκλασικισμός {href=/nεοκλασικισμός}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/41/Classical_landscape_with_small_waterfall_and_village.jpg)
 
  
 #### Ρομαντισμός στα Επτάνησα {href=/pομαντισμός-στα-eπτάνησα}
