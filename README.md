@@ -45,7 +45,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg)
 
 
-#### Μοντερνισμός:l. Υψηλός Μοντερνισμός και Πρωτοπορία (Υπερρεαλισμός) {href=/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός}
+#### Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία (Υπερρεαλισμός) {href=/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/db/Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg)
 
