@@ -8,7 +8,7 @@
 
 ## Νίκος Καμπάς {href=/νίκος-καμπάς}
 
-![](https://digitalpeni.org/aρκαδισμός/nikos_kampas.jpg)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/nikos_kampas.jpg)
 
 ## Γεώργιος Δροσίνης {href=/γεώργιος-δροσίνης}
 
@@ -24,7 +24,7 @@
 
 ## Παύλος Νιρβάνας {href=/παύλος-νιρβάνας}
 
-![](https://digitalpeni.org/aρκαδισμός/pavlos_nirvanas.jpg)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/pavlos_nirvanas.jpg)
 
 ## Κωνσταντίνος Χατζόπουλος {href=/κωνσταντίνος-παυλόπουλος}
 
@@ -32,11 +32,11 @@
 
 ## Σπήλιος Πασαγιάννης {href=/σπήλιος πασαγιάννης}
 
-![](https://digitalpeni.org/aρκαδισμός/spilios_pasagiannis.jpg)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/spilios_pasagiannis.jpg)
 
 ## Λάμπρος Πορφύρας {href=/λάμπρος πορφύρας}
 
-![](https://digitalpeni.org/aρκαδισμός/lampros_porfiras.jpg)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/lampros_porfiras.jpg)
 
 ## Μιλτιάδης Μαλακάσης {href=/μιλτιάδης-μαλακάσης}
 
@@ -44,5 +44,5 @@
 
 ## Πλάτων Ροδοκανάκης {href=/πλάτων-ροδοκανάκης}
 
-![](https://digitalpeni.org/aρκαδισμός/platon_rodokanakis.jpg)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/platon_rodokanakis.jpg)
 
