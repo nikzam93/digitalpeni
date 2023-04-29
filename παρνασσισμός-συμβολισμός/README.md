@@ -44,5 +44,5 @@
 
 ## Πλάτων Ροδοκανάκης {href=/πλάτων-ροδοκανάκης}
 
-![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/platon_rodokanakis.jpg)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/platon-rodokanakis.jpg)
 
