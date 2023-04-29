@@ -35,7 +35,7 @@
 
 #### Παρνασσισμός και Συμβολισμός {href=/παρνασσισμός-συμβολισμός}
 
-![](https://iiif.juncture-digital.org/thumbnail/wc:Zakynthos_flora_(35743858522).jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/f/f1/Gustave_Courbet_-_Portrait_of_Baudelaire_-_WGA05490.jpg)
 
 
 #### Συμβολισμός και Μετα-συμβολισμός {href=/Συμβολισμός-Μετα-συμβολισμός}
