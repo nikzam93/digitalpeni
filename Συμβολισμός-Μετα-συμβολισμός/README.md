@@ -36,7 +36,7 @@
 
 ## Τέλλος Άγρας {href=/τέλλος-άγρας}
 
-![](https://digitalpeni.org/Συμβολισμός-Μετα-συμβολισμός/tellos_agras.ong)
+![](https://digitalpeni.org/Συμβολισμός-Μετα-συμβολισμός/tellos_agras.png)
 
 ## Μήτσος Παπανικολάου {href=/μήτσος-παπανικολάου}
 
