@@ -1,6 +1,8 @@
 .ve-header "Ψηφιακές Οικολογίες" wc:A_pair_of_white_rose_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky 
 
-.ve.header "Ψηφιακές Οικολογίες" logo=https://digitalpeni.org/images/osf_logo.png sticky
+![](https://digitalpeni.org/images/jstor-labs-photo.jpg){style=height:100px}
+
+![](https://digitalpeni.org/images/osf_logo.png){style=height:1000px}
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
     
