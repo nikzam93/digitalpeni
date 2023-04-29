@@ -1,4 +1,4 @@
-ve-header "Ψηφιακές Οικολογίες" wc:A_pair_of_white_rose_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky 
+.ve-header "Ψηφιακές Οικολογίες" wc:A_pair_of_white_rose_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky 
 
 # Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία (Υπερρεαλισμός) {.cards}
 
