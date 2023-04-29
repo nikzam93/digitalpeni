@@ -4,7 +4,7 @@
 
 ## Αθανάσιος Χριστόπουλος {href=/Αθανάσιος-Χριστόπουλος} 
 
-![] (aρκαδισμός/xristopoulos.jpg)
+![] (https://digitalpeni.org/aρκαδισμός/xristopoulos.jpg)
 
 ## Γιάννης Βηλαράς {href=/Γιάννης-Βηλαράς} 
 
