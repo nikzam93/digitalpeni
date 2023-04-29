@@ -1,4 +1,6 @@
-wc:Bloem_van_een_Camellia_×_williamsii_'Roger_Hall'._20-04-2021_(actm.)_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky
+wc:https://unsplash.com/photos/ndN00KmbJ1c 
+
+logo=https://digitalpeni.org/images/NKUA_logo.png sticky
 
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
