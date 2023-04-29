@@ -1,7 +1,5 @@
 .ve-header "Ψηφιακές Οικολογίες" wc:A_pair_of_white_rose_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky
 
-logo=https://digitalpeni.org/images/jstor-labs-photo.jpg
-
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
     
 Η παρούσα μετά-διδακτορική έρευνα πραγματοποιείται από τη Δρ. Νικολέτα Ζαμπάκη, Μεταδιδακτορική Ερευνήτρια του Τμήματος Φιλολογίας του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών, υπό την επίβλεψη της κα Πέγκυ Καρπούζου, Επίκουρης Καθηγήτριας Θεωρίας της Λογοτεχνίας του ιδίου Τμήματος και Πανεπιστημίου. Θερμές ευχαριστίες στην ομάδα των Jstor Labs και ειδικότερα στον κο Ronald Snyder για την τεχνική υποστήριξη στην παρούσα έρευνα. 
@@ -49,3 +47,6 @@ logo=https://digitalpeni.org/images/jstor-labs-photo.jpg
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/db/Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg)
 
+
+.ve-footer
+    Powered by:[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
