@@ -1,6 +1,4 @@
-wc: Portulaca_flowers_01.jpg
-
-ve.header logo=https://digitalpeni.org/images/NKUA_logo.png sticky
+.ve-header "Ψηφιακές Οικολογίες" wc:https://upload.wikimedia.org/wikipedia/commons/a/a5/Bloem_van_een_Camellia_%C3%97_williamsii_%27Roger_Hall%27._20-04-2021_%28actm.%29_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky
 
 
 # Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
