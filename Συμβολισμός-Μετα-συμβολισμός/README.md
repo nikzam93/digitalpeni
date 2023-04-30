@@ -1,4 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:A_pair_of_white_rose_01.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky 
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg logo=https://digitalpeni.org/images/post-doc-logo.png
 
 # Συμβολισμός και Μετά-συμβολισμός {.cards}
 
