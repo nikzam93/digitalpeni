@@ -20,7 +20,7 @@
 
 ## Γιάννης Ρίτσος {href=/γιάννης-ρίτσος}
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b1/Yannis_Ritsos_-_Monemvasia_%282%29.JPG)
+![](https://digitalpeni.org/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός/ritsos.jpg)
 
 ## Νικηφόρος Βρεττάκος {href=/νικηφόρος-βρεττάκος}
 
