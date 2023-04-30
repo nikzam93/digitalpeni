@@ -41,7 +41,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/6/63/Spadino_-_Dead_Nature_-_Google_Art_Project.jpg)
 
 
-#### Συμβολισμός και Μετα-συμβολισμός {href=/Συμβολισμός-Μετα-συμβολισμός}
+#### Συμβολισμός και Μετά-συμβολισμός {href=/Συμβολισμός-Μετα-συμβολισμός}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg)
 
