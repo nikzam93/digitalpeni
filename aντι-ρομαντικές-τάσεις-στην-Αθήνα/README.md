@@ -4,7 +4,7 @@
 
 ## Άγγελος Βλάχος {href=/άγγελος-βλάχος} 
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/62/Aggelos_Vlachos_-_Karikatur.JPG)
+![](https://digitalpeni.org/aντι-ρομαντικές-τάσεις-στην-Αθήνα/vlachos.jpg)
 
 ## Ιωάννης Παπαδιαμαντόπουλος {href=/ιωάννης-παπαδιαμαντόπουλος}
 
@@ -12,7 +12,7 @@
 
 ## Γεώργιος Βιζυηνός {href=γεώργιος-βιζυηνός}
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/35/Georgios_Viziinos_%281912%29.jpg)
+![](https://digitalpeni.org/aντι-ρομαντικές-τάσεις-στην-Αθήνα/vizyinos.jpeg)
 
 ## Αριστομένης Προβελέγγιος {href=αριστομένης-προβελλέγιος}
 
