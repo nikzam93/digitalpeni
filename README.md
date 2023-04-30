@@ -1,4 +1,6 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg logo=https://digitalpeni.org/images/NKUA_logo.png sticky 
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg logo=https://digitalpeni.org/images/logo_of_post_doc sticky
+
+![](https://digitalpeni.org/images/NKUA_logo.png){style=height:60px}
 
 Με την ευγενική υποστήριξη των ![](https://digitalpeni.org/images/jstor-labs-photo.jpg){style=height:60px}
 
