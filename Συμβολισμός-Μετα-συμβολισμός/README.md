@@ -32,7 +32,7 @@
 
 ## Κ.Γ. Καρυωτάκης {href=/κγ-καρυωτάκης}
 
-![](https://digitalpeni.org/Συμβολισμός-Μετα-συμβολισμός/kariotakis.jpg)
+![](https://digitalpeni.org/Συμβολισμός-Μετα-συμβολισμός/karyotakis.jpg)
 
 ## Τέλλος Άγρας {href=/τέλλος-άγρας}
 
