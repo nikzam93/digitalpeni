@@ -12,7 +12,7 @@
 
 ## Ιούλιος Τυπάλδος {href=/ιούλιος-τυπάλδος}
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/12/Typaldos_Pretenteris.JPG)
+![]((https://digitalpeni.org/pομαντισμός-στα-eπτάνησα/typaldos.jpg)
 
 ## Ιάκωβος Πολυλάς {href=/ιάκωβος-πολυλάς}
 
@@ -20,7 +20,7 @@
 
 ## Γεώργιος Τερτσέτης {href=/γεώργιος-τερτσέτης}
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a7/Buste_George_Tertsetis_-_Nauplie_%28GR11%29_-_2022-03-24_-_2.jpg)
+![]((https://digitalpeni.org/pομαντισμός-στα-eπτάνησα/tertsetis.jpeg)
 
 ## Αριστοτέλης Βαλαωρίτης {href=/αριστοτέλης-βαλαωρίτης}
 
