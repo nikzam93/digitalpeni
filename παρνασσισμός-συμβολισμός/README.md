@@ -20,7 +20,7 @@
 
 ## Λορέντσος Μαβίλης {href=/λορέντσος-μαβίλης}
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/30/Lorentzos_Mavilis%2C_Greek_poet_-_Athens%2C_2008.JPG)
+![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/mavilis.jpg)
 
 ## Παύλος Νιρβάνας {href=/παύλος-νιρβάνας}
 
