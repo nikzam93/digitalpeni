@@ -10,6 +10,7 @@
 
 ### Οι ποιητικές/καλλιτεχνικές αναπαραστάσεις της χλωρίδας {.cards}
 
+
 #### Αρκαδισμός {href=/aρκαδισμός}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/09/Nature_View_3.jpg)
@@ -37,7 +38,7 @@
 
 #### Παρνασσισμός και Συμβολισμός {href=/παρνασσισμός-συμβολισμός}
 
-![](https://upload.wikimedia.org/wikipedia/commons/f/f1/Gustave_Courbet_-_Portrait_of_Baudelaire_-_WGA05490.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/63/Spadino_-_Dead_Nature_-_Google_Art_Project.jpg)
 
 
 #### Συμβολισμός και Μετα-συμβολισμός {href=/Συμβολισμός-Μετα-συμβολισμός}
