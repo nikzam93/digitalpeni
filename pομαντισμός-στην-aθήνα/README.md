@@ -4,7 +4,7 @@
 
 ## Αλέξανδρος Σούτσος {href=/αλέξανδρος-σούτσος}
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/ac/Alexandros_K._Soutsos.JPG)
+![](https://digitalpeni.org/pομαντισμός-στην-aθήνα/asoutsos.jpg)
 
 ## Παναγιώτης Σούτσος {href=/παναγιώτης-σούτσος}
 
@@ -36,7 +36,7 @@
 
 ## Ηλίας Τανταλίδης
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/5f/Ilias_Tantalidis.JPG)
+![](https://digitalpeni.org/pομαντισμός-στην-aθήνα/tantalidis.jpg)
 
 ## Αχιλλεύς Παράσχος
 
