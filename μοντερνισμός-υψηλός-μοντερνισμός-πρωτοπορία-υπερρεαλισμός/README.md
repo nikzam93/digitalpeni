@@ -28,7 +28,7 @@
 
 # Οδυσσέας Ελύτης {href=/oδυσσέας-ελύτης}
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/69/Odysseas_Elytis_1974.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/6/69/Odysseas_Elytis_1974.jpg){style=height:300px}
 
 ## Νίκος Γκάτσος {href=/νίκος-γκάτσος}
 
