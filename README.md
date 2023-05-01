@@ -1,4 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" pct:10,25,80,60 center sticky logo=https://digitalpeni.org/images/post-doc-logo.png
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" pct:25 center sticky logo=https://digitalpeni.org/images/post-doc-logo.png
 
 -[Home](/)
 -[About](/about)
