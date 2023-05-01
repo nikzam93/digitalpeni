@@ -1,7 +1,7 @@
-.ve-header "Ψηφιακές Οικολογίες" background=LightGreen wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" pct:25 center sticky logo=https://digitalpeni.org/images/post-doc-logo.png
-
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" pct:25 center sticky logo=https://digitalpeni.org/images/post-doc-logo.png
 [Home](/)
 [About](/about)
+    contact=nikzamp@phil.uoa.gr
 Contact
 
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} Με την ευγενική υποστήριξη των ![](https://digitalpeni.org/images/jstor-labs-logo.png){style=height:60px}
