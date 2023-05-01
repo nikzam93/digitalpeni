@@ -2,7 +2,7 @@
 
 - [Αρχική](/) 
 - [Έρευνα](/έρευνα) 
-- [Επικοινωνία](/επικοινωνία)
+- [Επικοινωνία](/επικοινωνία){nikzamp@phil.uoa.gr}
 
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} Με την ευγενική υποστήριξη των ![](https://digitalpeni.org/images/jstor-labs-logo.png){style=height:60px}
 
