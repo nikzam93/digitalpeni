@@ -1,8 +1,9 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg logo=https://digitalpeni.org/images/post-doc-logo.png
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" pct:25 center sticky logo=https://digitalpeni.org/images/post-doc-logo.png
+[Αρχική](/)
+[Η έρευνα](/Η έρευνα)
+[Επικοινωνία]
 
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} Με την ευγενική υποστήριξη των ![](https://digitalpeni.org/images/jstor-labs-logo.png){style=height:60px}
-
-# Ψηφιακές Οικολογίες. Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα
     
 Η παρούσα μετά-διδακτορική έρευνα πραγματοποιείται από τη Δρ. Νικολέτα Ζαμπάκη, Μεταδιδακτορική Ερευνήτρια του Τμήματος Φιλολογίας του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών, υπό την επίβλεψη της κα Πέγκυ Καρπούζου, Επίκουρης Καθηγήτριας Θεωρίας της Λογοτεχνίας του ιδίου Τμήματος και Πανεπιστημίου. Θερμές ευχαριστίες στην ομάδα των Jstor Labs και ειδικότερα στον κο Ronald Snyder για την τεχνική υποστήριξη στην παρούσα έρευνα. Η παρούσα έρευνα είναι εγγεγραμμένη στο Open Science Framework ![](https://digitalpeni.org/images/osf_logo.png){style=height:60px}
 
