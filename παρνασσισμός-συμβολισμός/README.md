@@ -26,7 +26,7 @@
 
 ![](https://digitalpeni.org/παρνασσισμός-συμβολισμός/pavlos_nirvanas.jpg)
 
-## Κωνσταντίνος Χατζόπουλος {href=/παρνασσισμός-συμβολισμός/κωνσταντίνος-παυλόπουλος}
+## Κωνσταντίνος Χατζόπουλος {href=/παρνασσισμός-συμβολισμός/κωνσταντίνος-χατζόπουλος}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/41/Konstantinos_Chatzopoulos.gif)
 
