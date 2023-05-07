@@ -2,7 +2,7 @@
 
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} ![](https://digitalpeni.org/images/logo_tmimatos.png){style=height:100px}
 
-![](https://digitalpeni.org/images/post-doc-logo.png){style=height:200px}   
+![](https://digitalpeni.org/images/post-doc-logo.png){style=height:150px}   
 
 Με την ευγενική υποστήριξη των ![](https://digitalpeni.org/images/jstor-labs-logo.png){style=height:60px}
 
