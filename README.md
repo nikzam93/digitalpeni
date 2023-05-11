@@ -1,4 +1,5 @@
 .ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα"
+    - [A Menu item](/)
 
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} ![](https://digitalpeni.org/images/logo_tmimatos.png){style=height:100px} 
 
