@@ -50,3 +50,4 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/db/Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg)
 
+.ve-footer
