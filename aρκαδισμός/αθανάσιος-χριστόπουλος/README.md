@@ -13,5 +13,5 @@
 
 # Λυρικά {.cards}
 
-![](https://digitalpeni.org/aρκαδισμός/αθανάσιος χριστόπουλος/λυρικά/lyrika.jpg)
+![](https://digitalpeni.org/aρκαδισμός/αθανάσιος-χριστόπουλος/λυρικά/lyrika.jpg)
 
