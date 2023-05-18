@@ -40,7 +40,7 @@
 
 Στενάξετε τριαντάφυλλα / Στενάξετε μυρσίνες. / Δακρύστε κῆποι σύδενδροι, / Καὶ κλαύσετε μυρτίνες. (σ. 58)
 
-![Myrtus_communis](https://github.com/nikzam93/digitalpeni/assets/98533098/82091b8f-591b-4127-8edb-4d8aa09cbabf)
+![Myrtus_communis](https://github.com/nikzam93/digitalpeni/assets/98533098/82091b8f-591b-4127-8edb-4d8aa09cbabf) sticky
 
 Μαυροφορέστε νάρκισσοι, / Μαυροφορέστε κρίνοι. Καὶ κάθε ἄνθος δάκρυα [...] Μ᾽ ἐθέρισε τὸ ἄνθος μου, [...] (σ. 58)
 
