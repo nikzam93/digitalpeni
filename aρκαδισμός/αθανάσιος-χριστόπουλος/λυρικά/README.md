@@ -11,7 +11,7 @@
     - [Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία: Υπερρεαλισμός](/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός)
     - [Επικοινωνία](/επικοινωνία)
 
-.ve media wc:Myrtus_communis.jpg right sticky 
+.ve media wc:https://upload.wikimedia.org/wikipedia/commons/9/9c/Myrtus_communis.jpg right sticky 
 
 Κάλλη κι ἄνθη μαζωμένα [...] (σ. 1)
 
