@@ -40,7 +40,7 @@
 
 Στενάξετε τριαντάφυλλα / Στενάξετε μυρσίνες. / Δακρύστε κῆποι σύδενδροι,  
 
-.ve media wc:https://upload.wikimedia.org/wikipedia/commons/a/ab/Myrtus_communis_Common_Myrtle_%E1%83%9B%E1%83%95%E1%83%9D%E1%83%A0%E1%83%A1%E1%83%98%E1%83%9C%E1%83%98.JPG right sticky
+.ve media wc:Myrtus_communis_Common_Myrtle_მვორსინი.JPG right sticky
 
 / Καὶ κλαύσετε μυρτίνες. (σ. 58)
 
