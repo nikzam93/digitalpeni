@@ -15,5 +15,5 @@
 
 ## Λυρικά {href=/aρκαδισμός/αθανάσιος-χριστόπουλος/λυρικά}
 
-![](https://digitalpeni.org/aρκαδισμός/αθανάσιος-χριστόπουλος/lyrika.png)
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
