@@ -15,5 +15,5 @@
 
 ## Άπαντα {href=/aρκαδισμός/γιάννης-βηλαράς/άπαντα}
 
-![](https://digitalpeni.org/aρκαδισμός/γιάννης-βηλαράς/apanta.jpg)
+![](https://digitalpeni.org/aρκαδισμός/γιάννης-βηλαράς/apanta.png)
 
