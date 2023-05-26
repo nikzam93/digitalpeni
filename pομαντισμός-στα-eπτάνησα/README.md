@@ -1,4 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" logo=https://digitalpeni.org/images/post-doc-logo.png 
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" logo=https://digitalpeni.org/images/post-doc-logo.png contact-form-title="Contact form for Some Site" contact-subject="Contact form for Some Site" contact=nikzamp@phil.uoa.gr
     - [Αρχική](/)
     - [Μεταδιδακτορική Έρευνα](/έρευνα)
     - [Αρκαδισμός](/aρκαδισμός)
@@ -9,7 +9,7 @@
     - [Παρνασσισμός και Συμβολισμός](/παρνασσισμός-συμβολισμός)
     - [Συμβολισμός και Μετά-συμβολισμός](/Συμβολισμός-Μετα-συμβολισμός)
     - [Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία: Υπερρεαλισμός](/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός)
-    - [Επικοινωνία](/επικοινωνία)
+    - [Επικοινωνία](/contact)
     
 # Ρομαντισμός στα Επτάνησα {.cards}
 
