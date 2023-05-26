@@ -11,6 +11,12 @@
     - [Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία: Υπερρεαλισμός](/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός)
     - [Επικοινωνία](/επικοινωνία)
  
+<style>
+    #juncture {
+        background-color: #F0FDF0;
+    }
+</style>
+
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} ![](https://digitalpeni.org/images/logo_tmimatos.png){style=height:100px} 
 
 ![](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px} Με την ευγενική υποστήριξη των 
