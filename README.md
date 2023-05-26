@@ -13,7 +13,7 @@
  
 <style>
     #juncture {
-        background-color: #F0FDF0;
+        background-color: #8ebf8e;
     }
 </style>
 
