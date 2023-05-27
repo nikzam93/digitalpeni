@@ -28,7 +28,7 @@
 **Φιλοσοφική Σχολή**
 **Τμήμα Φιλολογίας** 
 
-![](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px} [![OSF](https://digitalpeni.org/images/osf_logo.png)]{style=height:60px}(https://osf.io/jcrky) **Με την ευγενική υποστήριξη των** ![](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}
+![](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px} [![OSF](https://digitalpeni.org/images/osf_logo.png){style=height:60px}](https://osf.io/jcrky) **Με την ευγενική υποστήριξη των** ![](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}
 
 ## Πρώτες δεκαετίες 19ου αιώνα-Μεσοπολεμικά χρόνια (1920-1940)
 
