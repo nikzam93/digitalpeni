@@ -67,7 +67,7 @@
 Τὸ μέλι νὰ ρουφήσῃς, / Σἄν στ᾽ ἀνθια, κι᾽ ἀποκεῖ, [...] (σ. 24)
 
 ### Στὴ Χλόη
-.ve media wc:Lilium_longiflorum.jpg right sticky
+.ve-media wc:Lilium_longiflorum.jpg right sticky
 
 Οἱ κρίνοι, τὰ τριαντάφυλλα / Στὴν ὄψι σου ποὺ ἀνθοῦν. (σ. 25)
 
