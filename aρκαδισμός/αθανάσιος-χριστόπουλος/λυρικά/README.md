@@ -140,7 +140,7 @@
 
 ## 15. 
 
-.ve-media wc:Ivy_plant_hedera_2.jpg right sticky
+.ve-media wc:Hedera_rhombea_4.JPG right sticky
 
 Μὲ ==κισσὸν=={zoomto= στεφανωμένες, [...] / Κ᾽ εἰς τ᾽ ἀμπέλι μας κνῶντας, (σ. 128)
 
