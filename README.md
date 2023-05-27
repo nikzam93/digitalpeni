@@ -20,6 +20,7 @@
 .ve-footer
     - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+    - [![Twitter](https://digitalpeni.org/images/Twitter_logo.png)](https://twitter.com/digitalpeni)
     - [Αρχική](/)
 
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} 
