@@ -68,9 +68,9 @@
 
 ### Στὴ Χλόη
 
-.ve media wc:Lilium_longiflorum.jpg right
+.ve media wc:Lilium_longiflorum.jpg right sticky
 
-  Οἱ κρίνοι, τὰ τριαντάφυλλα / Στὴν ὄψι σου ποὺ ἀνθοῦν. (σ. 25)
+Οἱ κρίνοι, τὰ τριαντάφυλλα / Στὴν ὄψι σου ποὺ ἀνθοῦν. (σ. 25)
 
 # Σατυρικά
 
