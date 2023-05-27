@@ -23,6 +23,7 @@
     - [Αρχική](/)
 
 ![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} 
+
 **Φιλοσοφική Σχολή**
 **Τμήμα Φιλολογίας** 
 
