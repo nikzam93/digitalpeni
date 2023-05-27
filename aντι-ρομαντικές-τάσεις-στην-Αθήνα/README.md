@@ -11,10 +11,16 @@
     - [Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία: Υπερρεαλισμός](/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός)
     - [Επικοινωνία](/contact)
     
-    .ve-footer
+    <style>
+    #juncture {
+        background-color: #cae3ca;
+    }
+</style>
+
+.ve-footer
     - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-    - [About](/about)
+    - [Αρχική](/)
 
 # Αντι-ρομαντικές τάσεις στην Αθήνα {.cards}
 
