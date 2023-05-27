@@ -118,7 +118,7 @@
 
 ## 72. 
 
-.ve-media wc:A_White_Rose_flower.jpg right sticky
+.ve-media wc:A_White_Rose_flower.jpg right
 
 Τὸ ==τριαντάφυλλόν μας πρῶτον=={zoomto= / Τὸ λουλούδι τῶν Ἔρώτων, / Εἶναι ἄσπρον καθαρόν. / Ἡ μυρτιὰ τῆς Ἀφροδίτης, / Εἰς τὸ πράσινον κλαδί της, / 
 
