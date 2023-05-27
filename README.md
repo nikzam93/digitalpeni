@@ -23,7 +23,7 @@
     - [![Twitter](https://digitalpeni.org/images/Twitter_logo.png)](https://twitter.com/digitalpeni)
     - [Αρχική](/)
 
-![](https://digitalpeni.org/images/NKUA_logo.png){style=height:100px} 
+![](https://digitalpeni.org/images/NKUA_logo.png){style=height:60px} 
 
 **Φιλοσοφική Σχολή**
 **Τμήμα Φιλολογίας** 
