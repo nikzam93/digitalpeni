@@ -1,4 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" logo=https://digitalpeni.org/images/post-doc-logo.png contact-form-title="Contact form for Some Site" contact-subject="Contact form for Some Site" contact=nikzamp@phil.uoa.gr
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" logo=https://digitalpeni.org/images/post-doc-logo.png contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikzamp@phil.uoa.gr
     - [Αρχική](/)
     - [Μεταδιδακτορική Έρευνα](/έρευνα)
     - [Αρκαδισμός](/aρκαδισμός)
@@ -18,6 +18,6 @@
 </style>  
 
 .ve-footer
-    - Powered by: [![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
+    - Powered by Juncture[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
     - [Αρχική](/)
