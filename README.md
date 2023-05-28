@@ -23,7 +23,7 @@
     - [![Twitter](https://digitalpeni.org/images/Twitter_logo.png)](https://twitter.com/digitalpeni)
     - [Αρχική](/)
 
-[![ΕΚΠΑ](https://digitalpeni.org/images/NKUA_logo_1.png){style=height:60px}](https://www.uoa.gr/) **Φιλοσοφική Σχολή**, **Τμήμα Φιλολογίας** [![Digital Peni](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px}](https://digitalpeni.org/) [![OSF](https://digitalpeni.org/images/osf_logo.png){style=height:60px}](https://osf.io/jcrky) 
+[![ΕΚΠΑ](https://digitalpeni.org/images/logo_NKUA.png){style=height:100px}](https://www.uoa.gr/) **Φιλοσοφική Σχολή**, **Τμήμα Φιλολογίας** [![Digital Peni](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px}](https://digitalpeni.org/) [![OSF](https://digitalpeni.org/images/osf_logo.png){style=height:60px}](https://osf.io/jcrky) 
 
 **Με την ευγενική υποστήριξη των** [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/)
 
