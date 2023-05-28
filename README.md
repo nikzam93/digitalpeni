@@ -20,7 +20,7 @@
 .ve-footer
     - Powered by Juncture[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-    - [![Twitter](https://digitalpeni.org/images/Twitter_logo.png)](https://twitter.com/digitalpeni)
+    - [![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni)
     - [Αρχική](/)
 
 [![ΕΚΠΑ](https://digitalpeni.org/images/logo_NKUA.png){style=height:80px}](https://www.uoa.gr/) **Φιλοσοφική Σχολή**, **Τμήμα Φιλολογίας** [![Digital Peni](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px}](https://digitalpeni.org/) [![OSF](https://digitalpeni.org/images/osf_logo.png){style=height:60px}](https://osf.io/jcrky) 
