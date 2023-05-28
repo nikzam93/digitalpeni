@@ -20,7 +20,9 @@
 .ve-footer
     - Powered by Juncture[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-    - [Αρχική](/)    
+    - ©2023 Ψηφιακές Οικολογίες
+    - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
+    - [Αρχική](/)   
     
 # Ποιητικό Έργο {.cards}
 
