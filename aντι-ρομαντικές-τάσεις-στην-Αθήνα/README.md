@@ -12,10 +12,10 @@
     - [Επικοινωνία](/contact)
 
 <style>
-    #juncture {
+    body, #juncture {
         background-color: #cae3ca;
     }
-</style>  
+</style> 
 
 .ve-footer
     - Powered by Juncture[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
