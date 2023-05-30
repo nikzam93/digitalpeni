@@ -117,7 +117,7 @@
 
 ## 72. 
 
-.ve-media wc:A_White_Rose_flower.jpg right
+.ve-media wc:A_White_Rose_flower.jpg right weidth=300px height=300px fit=cover
 
 Τὸ ==τριαντάφυλλόν=={zoomto=0,0,3712,5568} μας πρῶτον / Τὸ λουλούδι τῶν Ἔρώτων, / Εἶναι ἄσπρον καθαρόν. / Ἡ μυρτιὰ τῆς Ἀφροδίτης, / Εἰς τὸ πράσινον κλαδί της, / Μἐσ᾽ τὰ φύλλα τὰ χλωρὰ, [...] (σ. 108)
 
@@ -127,7 +127,7 @@
 
 ## 1. 
 
-.ve-media wc:Laurus_nobilis_Wawrzyn_szlachetny_2019-05-26_01.jpg right sticky
+.ve-media wc:Laurus_nobilis_Wawrzyn_szlachetny_2019-05-26_01.jpg right weidth=300px height=300px fit=cover
 
 Τὴν πικρήν τους ==δάφνην=={zoomto=0,1,2989,3988} καῦσε, / Κὶ ἀπ᾽ τοὺς κόπους πλέον παῦσε. (σ. 111)
 
