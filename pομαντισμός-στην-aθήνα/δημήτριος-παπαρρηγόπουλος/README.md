@@ -12,7 +12,7 @@
     - [Επικοινωνία](/contact)
 
 <style>
-    #juncture {
+    body, #juncture {
         background-color: #cae3ca;
     }
 </style>  
