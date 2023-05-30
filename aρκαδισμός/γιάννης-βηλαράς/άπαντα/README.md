@@ -61,7 +61,8 @@
 Φιλόπονο μελίσσι, / Ποὺ σ᾽ ἔκαμεν ἡ φύση / Τὸ μέλι νὰ τρυγᾷς, / Τὸ μέλι ποὺ γυρεύεις [...] Τὸ μέλι νὰ ρουφήσῃς, / Σἄν στ᾽ ἀνθια, κι᾽ ἀποκεῖ. (σ. 24)
 
 ### Στὴ Χλόη
-.ve-media wc:Formosa_lily,_Nagai_Park,_Osaka.jpg right sticky
+
+.ve-media wc:Formosa_lily,_Nagai_Park,_Osaka.jpg right weidth=300px height=300px fit=cover
 
 Οἱ ==κρίνοι=={1,0,3264,3384} τὰ τριαντάφυλλα / Στὴν ὄψι σου ποὺ ἀνθοῦν. (σ. 25)
 
@@ -73,7 +74,7 @@
 
 ## Ὁ Ματσούκας ἢ ὁ αὐτοδίδαχτος γιατρός
 
-.ve-media wc:Radijs_planten_(Raphanus_sativus_subsp._sativus).jpg right sticky
+.ve-media wc:Radijs_planten_(Raphanus_sativus_subsp._sativus).jpg right weidth=300px height=300px fit=cover
 
 Μόνε ξέρει τὸ ==ρεπάνι=={zoomto=415,511,1364,1023} / Μἐς στο σῶμα, ὡς πόσα κάνει [...] (σ. 51)
 
