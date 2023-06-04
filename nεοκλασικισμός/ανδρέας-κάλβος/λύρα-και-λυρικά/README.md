@@ -198,8 +198,6 @@
 
 [...] χείλη / Σὰν δροσισμένα ῥόδα, / Λαιμὸν σάν γάλα; (σ. 81)
 
-**Γ**
-
 .ve-media wc:Ocimum_basilicum_111.JPG right weidth=300px height=300px fit=cover
 
 **Γ**
