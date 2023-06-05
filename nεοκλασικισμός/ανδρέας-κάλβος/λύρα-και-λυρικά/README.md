@@ -224,7 +224,7 @@
 
 **ΙΓ**
 
-.ve-media wc=Myrtus_communis.jpg right weidth=300px height=300px fit=cover
+.ve-media wc:Myrtus_communis.jpg right weidth=300px height=300px fit=cover
 
 Καθώς ==μυρτιὰ=={zoomto=} ὑπερήφανος / Ἄπ᾽ ἄνθη φορτωμένη [...] (σ. 91)
 
