@@ -23,3 +23,57 @@
     - ©2023 Ψηφιακές Οικολογίες
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)
+
+# Ποιητικό Έργο {.cards}
+
+## Ὁ  Ὕμνος εἰς τὴν Ἐλευθερίαν {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/ύμνος-εις-την-ελευθερίαν}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ἡ καταστροφὴ τῶν Ψαρῶν {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/η-καταστροφή-των-ψαρών}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Εἰς τὸν θάνατον τοῦ Λόρδου Μπάϋρον {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/εις-τον-θάνατον-του-λόρδου-μπάϋρον}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ἡ Ἀγνώριστη {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/η-αγνώριστη}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ὁ θάνατος τῆς ὀρφανῆς {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/ο-θάνατος-της-ορφανής}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Εἰς Μοναχήν {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/εις-μοναχήν}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ἡ Ἀγνώριστη {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/η-αγνώριστη}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ὁ Λάμπρος {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/ο-λάμπρος}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ἐλεύθεροι Πολιορκημένοι {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/ελεύθεροι-πολιορκημένοι}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ὁ Πόρφυρας {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/πόρφυρας}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ἀνθούλα {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/ανθούλα}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Carmen Seculare {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/carmen-seculare}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Τὸ ὄνειρο {href=/pομαντισμός-στα-eπτάνησα/διονύσιος-σολωμός/το-όνειρο}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
