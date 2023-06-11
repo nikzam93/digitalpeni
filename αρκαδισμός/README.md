@@ -1,7 +1,7 @@
 .ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" logo=https://digitalpeni.org/images/post-doc-logo.png contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikoletazampaki@hotmail.com
     - [Αρχική](/)
     - [Μεταδιδακτορική Έρευνα](/έρευνα)
-    - [Αρκαδισμός](/aρκαδισμός)
+    - [Αρκαδισμός](/αρκαδισμός)
     - [Νεοκλασικισμός](/nεοκλασικισμός)
     - [Ρομαντισμός στα Επτάνησα](/pομαντισμός-στα-eπτάνησα)
     - [Ρομαντισμός στην Αθήνα](/pομαντισμός-στην-aθήνα)
@@ -26,10 +26,10 @@
     
 # Αρκαδισμός {.cards}
 
-## Αθανάσιος Χριστόπουλος {href=/aρκαδισμός/αθανάσιος-χριστόπουλος} 
+## Αθανάσιος Χριστόπουλος {href=/αρκαδισμός/αθανάσιος-χριστόπουλος} 
 
-![](https://digitalpeni.org/aρκαδισμός/xristopoulos.jpg)
+![](https://digitalpeni.org/αρκαδισμός/xristopoulos.jpg)
 
-## Γιάννης Βηλαράς {href=/aρκαδισμός/γιάννης-βηλαράς}
+## Γιάννης Βηλαράς {href=/αρκαδισμός/γιάννης-βηλαράς}
 
-![](https://digitalpeni.org/aρκαδισμός/vilaras.jpg)
+![](https://digitalpeni.org/αρκαδισμός/vilaras.jpg)
