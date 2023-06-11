@@ -10,26 +10,22 @@
     - [Συμβολισμός και Μετά-συμβολισμός](/Συμβολισμός-Μετα-συμβολισμός)
     - [Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία: Υπερρεαλισμός](/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός)
     - [Επικοινωνία](/contact)
-    
+
 <style>
     body, #juncture {
         background-color: #cae3ca;
     }
-</style> 
-    
+</style>
+
 .ve-footer
     - Powered by Juncture[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
     - ©2023 Ψηφιακές Οικολογίες
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
-    - [Αρχική](/)
+    - [Αρχική](/)   
     
-# Αρκαδισμός {.cards}
+# Ποιητικό Έργο {.cards}
 
-## Αθανάσιος Χριστόπουλος {href=/aρκαδισμός/αθανάσιος-χριστόπουλος} 
+## Άπαντα {href=/aρκαδισμός/γιάννης-βηλαράς/άπαντα}
 
-![](https://digitalpeni.org/aρκαδισμός/xristopoulos.jpg)
-
-## Γιάννης Βηλαράς {href=/aρκαδισμός/γιάννης-βηλαράς}
-
-![](https://digitalpeni.org/aρκαδισμός/vilaras.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
