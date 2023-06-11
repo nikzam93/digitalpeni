@@ -1,7 +1,7 @@
 .ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" logo=https://digitalpeni.org/images/post-doc-logo.png contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikoletazampaki@hotmail.com
     - [Αρχική](/)
     - [Μεταδιδακτορική Έρευνα](/έρευνα)
-    - [Αρκαδισμός](/aρκαδισμός/ανδρέας-κάλβος)
+    - [Αρκαδισμός](/aρκαδισμός)
     - [Νεοκλασικισμός](/nεοκλασικισμός)
     - [Ρομαντισμός στα Επτάνησα](/pομαντισμός-στα-eπτάνησα)
     - [Ρομαντισμός στην Αθήνα](/pομαντισμός-στην-aθήνα)
@@ -10,7 +10,7 @@
     - [Συμβολισμός και Μετά-συμβολισμός](/Συμβολισμός-Μετα-συμβολισμός)
     - [Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία: Υπερρεαλισμός](/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός)
     - [Επικοινωνία](/contact)
-
+    
 <style>
     body, #juncture {
         background-color: #cae3ca;
@@ -24,8 +24,8 @@
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)
     
-# Νεοκλασικισμός {.cards}
+# Ποιητικό Έργο {.cards}
 
-## Ανδρέας Κάλβος {href=/nεοκλασικισμός/ανδρέας-κάλβος}
+## Λύρα και Λυρικά {href=/nεοκλασικισμός/ανδρέας-κάλβος/λύρα-και-λυρικά}
 
-![](https://digitalpeni.org/nεοκλασικισμός/kalvos.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
