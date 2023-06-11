@@ -28,4 +28,4 @@
 
 ## Ανδρέας Κάλβος {href=/νεοκλασικισμός/ανδρέας-κάλβος}
 
-![](https://digitalpeni.org/βεοκλασικισμός/kalvos.jpg)
+![](https://digitalpeni.org/νεοκλασικισμός/kalvos.jpg)
