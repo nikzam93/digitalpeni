@@ -24,7 +24,7 @@
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)   
     
-# Συμβολισμός και Μετά-συμβολισμός {.cards}
+# Συμβολισμός και Μετα-συμβολισμός {.cards}
 
 ## Άγγελος Σικελιανός {href=/συμβολισμός-μετα-συμβολισμός/άγγελος-σικελιανός}
 
