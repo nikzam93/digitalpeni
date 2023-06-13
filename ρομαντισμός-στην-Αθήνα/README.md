@@ -42,7 +42,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/13/Georgios_Zalokostas.JPG)
 
-## Ιωάννης Καρασούτσας {href=/ρομαντισμός-στην-Αθήνα/ιωάννης-καρασούτσας}
+## Ιωάννης Καρασούτσας {href=/ρομαντισμός-στην-Αθήνα/ιωάννης-καρασούτσας}
 
 ![](https://digitalpeni.org/ρομαντισμός-στην-Αθήνα/ioannis_karasoutsas.jpg)
 
