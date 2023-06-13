@@ -30,7 +30,7 @@
 
 ![](https://digitalpeni.org/ρομαντισμός-στην-Αθήνα/asoutsos.jpg)
 
-## Παναγιώτης Σούτσος {href=/ρομαντισμός-στην-Αθήνα/παναγιώτης-σούτσος}
+## Παναγιώτης Σούτσος {href=/ρομαντισμός-στην-Αθήνα/παναγιώτης-σούτσος}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f4/Panagiotis_Soutsos_%28Woodcut%2C_Mentor_1873%29.png)
 
