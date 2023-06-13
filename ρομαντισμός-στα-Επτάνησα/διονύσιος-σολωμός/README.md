@@ -30,7 +30,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Ἡ καταστροφὴ τῶν Ψαρῶν {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/η-καταστροφή-των-ψαρών}
+## Ἡ καταστροφὴ τῶν Ψαρῶν {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/η-καταστροφή-των-ψαρών}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
