@@ -66,6 +66,6 @@
 
 ![](https://digitalpeni.org/συμβολισμός-μετα-συμβολισμός/mitsos_papanikolaou.jpg)
 
-## Μαρία Πολυδούρη {href=/συμβολισμός-μετα-συμβολισμός/μαρία-πολυδούρη}
+## Μαρία Πολυδούρη {href=/συμβολισμός-μετα-συμβολισμός/μαρία-πολυδούρη}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/4f/%CE%9C%CE%B1%CF%81%CE%AF%CE%B1_%CE%A0%CE%BF%CE%BB%CF%85%CE%B4%CE%BF%CF%8D%CF%81%CE%B7_1918~.jpg)
