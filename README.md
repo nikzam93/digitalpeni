@@ -50,7 +50,7 @@
  
 #### Ρομαντισμός στην Αθήνα {href=/ρομαντισμός-στην-Αθήνα}
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg/177px-H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
 
 
 #### Αντι-ρομαντικές τάσεις στην Αθήνα {href=/αντι-ρομαντικές-τάσεις-στην-Αθήνα}
