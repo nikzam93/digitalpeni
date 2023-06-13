@@ -55,17 +55,17 @@
 
 #### Αντι-ρομαντικές τάσεις στην Αθήνα {href=/αντι-ρομαντικές-τάσεις-στην-Αθήνα}
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/187px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 
 
 #### Παρνασσισμός και Συμβολισμός {href=/παρνασσισμός-συμβολισμός}
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/63/Spadino_-_Dead_Nature_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Spadino_-_Dead_Nature_-_Google_Art_Project.jpg/202px-Spadino_-_Dead_Nature_-_Google_Art_Project.jpg)
 
 
 #### Συμβολισμός και Μετα-συμβολισμός {href=/συμβολισμός-μετα-συμβολισμός}
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/e1/Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg/219px-Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg)
 
 
 #### Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία (Υπερρεαλισμός) {href=/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός}
