@@ -62,6 +62,6 @@
 
 ![](https://digitalpeni.org/ρομαντισμός-στην-Αθήνα/tantalidis.jpg)
 
-## Αχιλλεύς Παράσχος {href=/ρομαντισμός-στην-Αθήνα/αχιλλεύς-παράσχος}
+## Αχιλλεύς Παράσχος {href=/ρομαντισμός-στην-Αθήνα/αχιλλεύς-παράσχος}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/93/Achilleas_Paraschos_%28Imerologion_Skokou_1888%29.jpg)
