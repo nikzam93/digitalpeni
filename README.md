@@ -53,7 +53,7 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
 
 
-#### Αντι-ρομαντικές τάσεις στην Αθήνα {href=/αντι-ρομαντικές-τάσεις-στην-Αθήνα}
+#### Αντι-ρομαντικές τάσεις στην Αθήνα {href=/αντι-ρομαντικές-τάσεις-στην-Αθήνα}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/187px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 
