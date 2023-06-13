@@ -38,7 +38,7 @@
 
 ![](https://digitalpeni.org/pομαντισμός-στα-eπτάνησα/typaldos.jpg)
 
-## Ιάκωβος Πολυλάς {href=/ρομαντισμός-στα-Επτάνησα/ιάκωβος-πολυλάς}
+## Ιάκωβος Πολυλάς {href=/ρομαντισμός-στα-Επτάνησα/ιάκωβος-πολυλάς}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f6/Iakovos_Polylas.JPG)
 
