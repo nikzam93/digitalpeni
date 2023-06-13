@@ -58,7 +58,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Ἐλεύθεροι Πολιορκημένοι {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/ελεύθεροι-πολιορκημένοι}
+## Ἐλεύθεροι Πολιορκημένοι {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/ελεύθεροι-πολιορκημένοι}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
