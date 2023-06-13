@@ -46,7 +46,7 @@
 
 ![](https://digitalpeni.org/ρομαντισμός-στην-Αθήνα/ioannis_karasoutsas.jpg)
 
-## Δημοσθένης Βαλαβάνης {href=/ρομαντισμός-στην-Αθήνα/δημοσθένης-βαλαβάνης}
+## Δημοσθένης Βαλαβάνης {href=/ρομαντισμός-στην-Αθήνα/δημοσθένης-βαλαβάνης}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7b/Fountain_pen_writing_%28literacy%29.jpg)
 
