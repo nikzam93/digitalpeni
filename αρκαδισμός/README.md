@@ -30,6 +30,6 @@
 
 ![](https://digitalpeni.org/αρκαδισμός/xristopoulos.jpg)
 
-## Γιάννης Βηλαράς {href=/αρκαδισμός/γιάννης-βηλαράς}
+## Γιάννης Βηλαράς {href=/αρκαδισμός/γιάννης-βηλαράς}
 
 ![](https://digitalpeni.org/αρκαδισμός/vilaras.jpg)
