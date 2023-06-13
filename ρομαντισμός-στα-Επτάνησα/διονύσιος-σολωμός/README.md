@@ -50,10 +50,6 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Ἡ Ἀγνώριστη {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/η-αγνώριστη}
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
-
 ## Ὁ Λάμπρος {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/o-λάμπρος}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
