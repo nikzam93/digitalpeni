@@ -38,7 +38,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Alexandros_Rizos_Ragkabis.JPG)
 
-## Γεώργιος Ζαλοκώστας {href=/ρομαντισμός-στην-Αθήνα/γεώργιος-ζαλοκώστας}
+## Γεώργιος Ζαλοκώστας {href=/ρομαντισμός-στην-Αθήνα/γεώργιος-ζαλοκώστας}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/13/Georgios_Zalokostas.JPG)
 
