@@ -40,7 +40,7 @@
 
 #### Νεοκλασικισμός {href=/νεοκλασικισμός}
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/41/Classical_landscape_with_small_waterfall_and_village.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Classical_landscape_with_small_waterfall_and_village.jpg/320px-Classical_landscape_with_small_waterfall_and_village.jpg)
 
  
 #### Ρομαντισμός στα Επτάνησα {href=/ρομαντισμός-στα-Επτάνησα}
