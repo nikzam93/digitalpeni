@@ -34,7 +34,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Εἰς τὸν θάνατον τοῦ Λόρδου Μπάϋρον {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/εις-τον-θάνατον-του-λόρδου-μπάϋρον}
+## Εἰς τὸν θάνατον τοῦ Λόρδου Μπάϋρον {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/εις-τον-θάνατον-του-λόρδου-μπάϋρον}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
