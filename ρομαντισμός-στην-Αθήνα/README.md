@@ -34,7 +34,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/f4/Panagiotis_Soutsos_%28Woodcut%2C_Mentor_1873%29.png)
 
-## Αλέξανδρος-Ρίζος Ραγκαβής {href=/ρομαντισμός-στην-Αθήνα/αλέξανδρος-ρίζος-ραγκαβής}
+## Αλέξανδρος-Ρίζος Ραγκαβής {href=/ρομαντισμός-στην-Αθήνα/αλέξανδρος-ρίζος-ραγκαβής}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/80/Alexandros_Rizos_Ragkabis.JPG)
 
