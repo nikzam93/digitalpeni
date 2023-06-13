@@ -34,7 +34,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/46/Lytras_gerasimos_markoras.jpg)
 
-## Ιούλιος Τυπάλδος {href=/ρομαντισμός-στα-Επτάνησα/ιούλιος-τυπάλδος}
+## Ιούλιος Τυπάλδος {href=/ρομαντισμός-στα-Επτάνησα/ιούλιος-τυπάλδος}
 
 ![](https://digitalpeni.org/pομαντισμός-στα-eπτάνησα/typaldos.jpg)
 
