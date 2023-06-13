@@ -35,7 +35,7 @@
 
 #### Αρκαδισμός {href=/αρκαδισμός}
 
-![](https://upload.wikimedia.org/wikipedia/commons/0/09/Nature_View_3.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nature_View_3.jpg/384px-Nature_View_3.jpg)
 
 
 #### Νεοκλασικισμός {href=/νεοκλασικισμός}
