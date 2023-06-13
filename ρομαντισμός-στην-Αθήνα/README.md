@@ -50,7 +50,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7b/Fountain_pen_writing_%28literacy%29.jpg)
 
-## Δημήτριος Παπαρρηγόπουλος {href=/ρομαντισμός-στην-Αθήνα/δημήτριος-παπαρρηγόπουλος}
+## Δημήτριος Παπαρρηγόπουλος {href=/ρομαντισμός-στην-Αθήνα/δημήτριος-παπαρρηγόπουλος}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Dimitris_Paparrigopoulos.JPG)
 
