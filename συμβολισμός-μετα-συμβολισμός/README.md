@@ -34,7 +34,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/82/Kostas_I_Varnalis_Alexandria_circa_1914.jpg)
 
-## Απόστολος Μελαχρινός {href=/συμβολισμός-μετα-συμβολισμός/απόστολος-μελαχρινός}
+## Απόστολος Μελαχρινός {href=/συμβολισμός-μετα-συμβολισμός/απόστολος-μελαχρινός}
 
 ![](https://digitalpeni.org/συμβολισμός-μετα-συμβολισμός/apostolos_melachrinos.jpg)
 
