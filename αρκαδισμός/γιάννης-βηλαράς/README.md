@@ -26,6 +26,6 @@
     
 # Ποιητικό Έργο {.cards}
 
-## Άπαντα {href=/αρκαδισμός/γιάννης-βηλαράς/άπαντα}
+## Άπαντα {href=/αρκαδισμός/γιάννης-βηλαράς/άπαντα}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
