@@ -146,7 +146,7 @@
 
 ## 15. 
 
-.ve-media wc:Hedera_rhombea_4.JPG right sticky
+.ve-media wc:Hedera_rhombea_4.JPG right weidth=300px height=300px fit=cover
 
 Καθαρώτατες παρθένες, / Μὲ ==κισσὸν=={zoomto=0,0,2448,3266} στεφανωμένες, [...] / Κ᾽ εἰς τ᾽ ἀμπέλι μας κνῶντας, (σ. 128)
 
