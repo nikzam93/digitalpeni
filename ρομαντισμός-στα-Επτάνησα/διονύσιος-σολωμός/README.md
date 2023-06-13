@@ -42,7 +42,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Ὁ θάνατος τῆς ὀρφανῆς {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/ο-θάνατος-της-ορφανής}
+## Ὁ θάνατος τῆς ὀρφανῆς {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/ο-θάνατος-της-ορφανής}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
