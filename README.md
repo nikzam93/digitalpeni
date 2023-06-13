@@ -70,4 +70,4 @@
 
 #### Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία (Υπερρεαλισμός) {href=/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός}
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/db/Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg/320px-Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg)
