@@ -30,7 +30,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/6f/Solomos_portrait_4.jpg)
 
-## Γεράσιμος Μαρκοράς {href=/ρομαντισμός-στα-Επτάνησα/γεράσιμος-μαρκοράς}
+## Γεράσιμος Μαρκοράς {href=/ρομαντισμός-στα-Επτάνησα/γεράσιμος-μαρκοράς}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/4/46/Lytras_gerasimos_markoras.jpg)
 
