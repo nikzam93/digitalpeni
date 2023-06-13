@@ -46,7 +46,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Εἰς Μοναχήν {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/εις-μοναχήν}
+## Εἰς Μοναχήν {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/εις-μοναχήν}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
