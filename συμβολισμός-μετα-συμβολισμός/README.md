@@ -30,7 +30,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/8d/Sikelianos.jpg)
 
-## Κώστας Βάρναλης {href=/συμβολισμός-μετα-συμβολισμός/κώστας-βάρναλης}
+## Κώστας Βάρναλης {href=/συμβολισμός-μετα-συμβολισμός/κώστας-βάρναλης}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/82/Kostas_I_Varnalis_Alexandria_circa_1914.jpg)
 
