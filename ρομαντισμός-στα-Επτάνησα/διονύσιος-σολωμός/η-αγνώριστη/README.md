@@ -23,3 +23,9 @@
     - ©2023 Ψηφιακές Οικολογίες
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)   
+
+# Κώνστα Λ.Γ.Χ. (επιμ.), *Διονυσίου Σολωμού Άπαντα. Τα Ευρισκόμενα*, Αθήνα: Τύποις Π.Δ. Σακελλαρίου, 1901.
+
+Τώρα ποῦ τούτη / Ἡ κόρη φαίνεται, / Τὸ χόρτο γένεται / Ἄνθι ἁπαλό·(σ. 7)
+
+Κόκκινα κι᾽ ὄμορφα / Ἔχει τὰ χεῖλα, / Ὡσὰν τὰ φύλλα / Τῆς ῥοδαριάς, (σ. 7)
