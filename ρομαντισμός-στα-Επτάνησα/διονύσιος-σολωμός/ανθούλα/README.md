@@ -23,3 +23,7 @@
     - ©2023 Ψηφιακές Οικολογίες
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)   
+
+# Κώνστα Λ.Γ.Χ. (επιμ.), *Διονυσίου Σολωμού Άπαντα. Τα Ευρισκόμενα*, Αθήνα: Τύποις Π.Δ. Σακελλαρίου, 1901.
+
+Εἶχες τὰ μάτια σου γυρτὰ ᾽ς τὰ πράσινα χορτάρια, / Κ᾽ ἡ λύπη σοῦ τὰ στόλιζε μὲ δυὸ μαργαριτάρια. (σ. 3)
