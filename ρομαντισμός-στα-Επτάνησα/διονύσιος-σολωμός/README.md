@@ -42,6 +42,14 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
+## Δε μ᾽ ἀγαπᾶς {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/δεν-μ'αγαπάς}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Κάκιωμα {{href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/κάκιωμα}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
 ## Ὁ θάνατος τῆς ὀρφανῆς {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/ο-θάνατος-της-ορφανής}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
