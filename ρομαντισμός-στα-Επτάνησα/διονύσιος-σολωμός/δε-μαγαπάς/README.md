@@ -24,4 +24,6 @@
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)
 
+# Κώνστα Λ.Γ.Χ. (επιμ.), *Διονυσίου Σολωμού Άπαντα. Τα Ευρισκόμενα*, Αθήνα: Τύποις Π.Δ. Σακελλαρίου, 1901.
+
 Ὅσα λούλουδα εἰν᾽ τὸ Μάη / Μαδημένα ἐρωτηθήκαν, / Κι᾽ ὅλα αὐτὰ μ᾽ ἀποκριθῆκαν, / Πῶς ἐσὺ δὲ μ᾽ ἀγαπᾷς. (σ. 8)
