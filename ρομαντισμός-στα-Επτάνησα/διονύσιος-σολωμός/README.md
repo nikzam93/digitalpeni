@@ -34,7 +34,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Πρός τὸν βασιλέα τῆς Ἑλλάδας {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/προς-τον-βασιλέα-της-Ελλάδας}
+## Πρός τὸν βασιλέα τῆς Ἑλλάδας {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/προς-τον-βασιλέα-της-Ελλάδας}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
