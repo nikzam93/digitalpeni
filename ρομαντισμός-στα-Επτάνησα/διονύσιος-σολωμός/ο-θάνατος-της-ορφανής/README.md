@@ -24,9 +24,9 @@
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)   
 
-Πές μου, θυμᾶσαι, ἀγάπη μου, ἐκείνη τὴν παιδοῦλα, / Ὁποῦ χέ ᾽ς τὰ ξανθὰ μαλλιὰ νεοθέριστη μυρτοῦλα; / Ὁποῦ χὲ σὰν παρθενικὸ τριαντάφυλλο τὸ στόμα, / 
+Πές μου, θυμᾶσαι, ἀγάπη μου, ἐκείνη τὴν παιδοῦλα, / Ὁποῦ χέ ᾽ς τὰ ξανθὰ μαλλιὰ νεοθέριστη μυρτοῦλα; / Ὁποῦ χὲ σὰν παρθενικὸ τριαντάφυλλο τὸ στόμα, / Ποῦ 
 
-Ποῦ χὲ τὰ μάτια γαλανὰ σὰν τ᾽ οὐρανοῦ τὸ χρῶμα; (σ. 13)
+χὲ τὰ μάτια γαλανὰ σὰν τ᾽ οὐρανοῦ τὸ χρῶμα; (σ. 13)
 
 .ve-media wc:Flor_del_huizache_(Vachellia_farnesiana)_-_Gto.jpg right weidth=300px height=300px fit=cover
 
