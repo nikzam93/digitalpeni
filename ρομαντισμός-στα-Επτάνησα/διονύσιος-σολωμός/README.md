@@ -94,6 +94,10 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
+## Εἰς τὸ θάνατο κυρίας Ἀγγλίδας {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/εις-το-θάνατο-κυρίας-αγγλίδας}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
 ## Ὁ Κρητικός {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/ο-κρητικός}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
