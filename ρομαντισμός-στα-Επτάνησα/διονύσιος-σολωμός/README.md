@@ -42,7 +42,7 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Δε μ᾽ ἀγαπᾶς {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/δεν-μ'αγαπάς}
+## Δε μ᾽ ἀγαπᾶς {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/δε-μ'ἀγαπᾷς}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
