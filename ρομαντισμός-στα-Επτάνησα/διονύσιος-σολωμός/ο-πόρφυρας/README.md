@@ -23,3 +23,13 @@
     - ©2023 Ψηφιακές Οικολογίες
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)   
+
+# Κώνστα Λ.Γ.Χ. (επιμ.), *Διονυσίου Σολωμού Άπαντα. Τα Ευρισκόμενα*, Αθήνα: Τύποις Π.Δ. Σακελλαρίου, 1901.
+
+**2**
+
+Κυττᾷς τοῦ ῥόδου τὴ λαμπρὴ πρώτη χαρὰ τοῦ ἥλιου, / Ναὶ πρώτη, ἀλλ᾽ ὅμως δεύτερη ἀπὸ τὸ πρόσωπό σου! (σ. 163)
+
+**4**
+
+Γελᾷς καὶ σύ ᾽ς τὰ λούλουδα, χάσμα τοῦ βράχου μαῦρο. (σ. 164)
