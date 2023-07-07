@@ -122,15 +122,11 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Μεταφράσεις {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/μεταφράσεις}
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
-
-## Carmen Seculare {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/carmen-seculare}
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
-
 ## Τὸ ὄνειρο {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/το-όνειρο}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Μεταφράσεις {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/μεταφράσεις}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
