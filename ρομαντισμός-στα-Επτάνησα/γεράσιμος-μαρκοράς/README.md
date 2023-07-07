@@ -23,3 +23,17 @@
     - ©2023 Ψηφιακές Οικολογίες
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)
+
+# *Ὁ Ὅρκος. Ποίημα τοῦ Γεράσιμου Μαρκορά*, Ἐν Κερκύρᾳ: Τυπογραφεῖον ἡ Κέρκυρα, 1875.
+
+**Μέρος Πρῶτο**
+
+Ὡς, μ᾽ ἕνα πράσινο κλαρί, ξανοίξανε μία ᾽μέρα / Τῆς κιβωτῶς οἱ κάτοικοι τὴν ἄσπρη περιστέρα! (σ. 6)
+
+.ve-media wc:Viola_sororia,_2021-04-18,_Seldom_Seen,_04.jpg right weidth=300px height=300px fit=cover
+
+Μὲ στεναγμοὺς πρωτάνοιξαν τὰ πικραμένα χείλη, / Ὅπου τὸ ῥόδο ἐφύτρωνε κ᾽εσβυότουν τὸ ==γιοφύλλι=={zoomto=} / 
+
+Καί, καθὼς ἔπεφτε τὸ φῶς ἀπὸ μία ῥάχη ὀπίσω, [...] (σ. 9)
+
+
