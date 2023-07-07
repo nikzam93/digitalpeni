@@ -133,3 +133,7 @@
 ## Τὸ ὄνειρο {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/το-όνειρο}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Σατιρικά {href=/ρομαντισμός-στα-Επτάνησα/διονύσιος-σολωμός/σατιρικά}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
