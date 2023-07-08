@@ -30,8 +30,8 @@
 
 Καθότουν νιὸς τραγουδιστὴς σ ἕνα δεντρὸ ἀποκάτου / Τἄστρα κυττῶντας, τα βουνά, τὸ πέλαγο, τὰ δάση. (σ. 15)
 
-.ve-media wc:Citrus_myrtifolia.jpg right weidth=300px height=300px fit=cover
+.ve-media wc:Ripe_fruit_of_Diamante_citron_(Citrus_medica_cv._Diamante).jpg right weidth=300px height=300px fit=cover
 
-Νὰ τὸ ταιριάσῃ μυστικὰ μὲ τὴν κρυφὴ ἁρμονία / Ποὺ νύκτα οἱ βρύσες βγάνουνε καὶ τῆς ==κιτριᾶς=={zoomto=1220,1004,2223,1667} τὰ φύλλα· (σ. 15)
+Νὰ τὸ ταιριάσῃ μυστικὰ μὲ τὴν κρυφὴ ἁρμονία / Ποὺ νύκτα οἱ βρύσες βγάνουνε καὶ τῆς ==κιτριᾶς=={zoomto=} τὰ φύλλα· (σ. 15)
 
 
