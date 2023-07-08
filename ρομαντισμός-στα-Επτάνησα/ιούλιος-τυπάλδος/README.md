@@ -26,7 +26,7 @@
 
 # Ποιητικό Έργο {.cards}
 
-## Ποιήματα {href=/ρομαντισμός-στα-Επτάνησα/ιούλιος-τυπάλδος/ποιήματα}
+## Ποιήματα {href=/ρομαντισμός-στα-Επτάνησα/ιούλιος-τυπάλδος/ποιήματα}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
     
