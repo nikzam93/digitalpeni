@@ -52,9 +52,9 @@
 
 ## Ὁ ΘΑΝΑΤΟΣ
 
-.ve-media wc:Lilium_%27Stargazer%27_(the_%27Stargazer_lily%27).jpg right weidth=300px height=300px fit=cover
+.ve-media wc:White-Gold_Water_Lilly-01%2B_(355532631).jpg right weidth=300px height=300px fit=cover
 
-Ἄσπρη σὰν ==κρίνος=={zoomto=1,1309,4000,2098}, γαλανὴ σὰν τ᾽ Οὐρανοῦ τὸ χρῶμα, / Καὶ στῶν ἐχθρῶν τὰ βλέμματα σὰν ἀστραπὴ θὰ λάμψῃ. (σ. 20)
+Ἄσπρη σὰν ==κρίνος=={zoomto=}, γαλανὴ σὰν τ᾽ Οὐρανοῦ τὸ χρῶμα, / Καὶ στῶν ἐχθρῶν τὰ βλέμματα σὰν ἀστραπὴ θὰ λάμψῃ. (σ. 20)
 
 .ve-media wc:Cypress_of_Abarqu.JPG right weidth=300px height=300px fit=cover
 
