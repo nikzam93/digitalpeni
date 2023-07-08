@@ -52,7 +52,7 @@
 
 ## Ὁ ΘΑΝΑΤΟΣ
 
-.ve-media wc:White-Gold_Water_Lilly-01%2B_(355532631).jpg right weidth=300px height=300px fit=cover
+.ve-media wc:Lilium-candidum-001-Zachi-Evenor.jpg right weidth=300px height=300px fit=cover
 
 Ἄσπρη σὰν ==κρίνος=={zoomto=}, γαλανὴ σὰν τ᾽ Οὐρανοῦ τὸ χρῶμα, / Καὶ στῶν ἐχθρῶν τὰ βλέμματα σὰν ἀστραπὴ θὰ λάμψῃ. (σ. 20)
 
