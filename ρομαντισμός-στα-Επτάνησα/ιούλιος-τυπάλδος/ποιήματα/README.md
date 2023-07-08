@@ -54,7 +54,7 @@
 
 .ve-media wc:Lilium-candidum-001-Zachi-Evenor.jpg right weidth=300px height=300px fit=cover
 
-Ἄσπρη σὰν ==κρίνος=={zoomto=}, γαλανὴ σὰν τ᾽ Οὐρανοῦ τὸ χρῶμα, / Καὶ στῶν ἐχθρῶν τὰ βλέμματα σὰν ἀστραπὴ θὰ λάμψῃ. (σ. 20)
+Ἄσπρη σὰν ==κρίνος=={zoomto=0,821,3719,1951}, γαλανὴ σὰν τ᾽ Οὐρανοῦ τὸ χρῶμα, / Καὶ στῶν ἐχθρῶν τὰ βλέμματα σὰν ἀστραπὴ θὰ λάμψῃ. (σ. 20)
 
 .ve-media wc:Cypress_of_Abarqu.JPG right weidth=300px height=300px fit=cover
 
