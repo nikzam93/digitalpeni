@@ -38,10 +38,6 @@
 
 ![](https://digitalpeni.org/ρομαντισμός-στα-Επτάνησα/typaldos.jpg)
 
-## Ιάκωβος Πολυλάς {href=/ρομαντισμός-στα-Επτάνησα/ιάκωβος-πολυλάς}
-
-![](https://upload.wikimedia.org/wikipedia/commons/f/f6/Iakovos_Polylas.JPG)
-
 ## Γεώργιος Τερτσέτης {href=/ρομαντισμός-στα-Επτάνησα/γεώργιος-τερτσέτης}
 
 ![](https://digitalpeni.org/ρομαντισμός-στα-Επτάνησα/tertsetis.jpeg)
