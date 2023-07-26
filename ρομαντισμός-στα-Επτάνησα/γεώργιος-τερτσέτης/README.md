@@ -29,3 +29,7 @@
 ## Κορίννα καί Πίνδαρος {href=/ρομαντισμός-στα-Επτάνησα/γεώργιος-τερτσέτης/κορίννα-και-πίνδαρος}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+
+## Ποιήματα {href=/ρομαντισμός-στα-Επτάνησα/γεώργιος-τερτσέτης/ποιήματα}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
