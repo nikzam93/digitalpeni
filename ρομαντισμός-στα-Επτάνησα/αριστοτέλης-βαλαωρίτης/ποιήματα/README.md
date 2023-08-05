@@ -291,7 +291,3 @@
 .ve-media wc:Rosemary_(Salvia_rosmarinus)_in_Athens_on_June_25,_2023.jpg right weidth=300px height=300px fit=cover
 
 δέξου τὸ ==δεντρολίβανο=={zoomto=0,3247,4000,2098} πἀνάθρεψε ἡ καρδιά μου. (σ. 61)
-
-
-
-
