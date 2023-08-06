@@ -402,7 +402,7 @@
 
 Τοῦ φάνηκε ὁλοζώντανος ἐκεῖ μὲ τἄρματά του, / ὁ γέροντάς του νηστικὸς ὄτ᾽ ἔστεκε σιμά του. 
 
-.ve-media wc:Starr_051211-5680_Pteris_excelsa.jpg right weidth=300px height=300px fit=cover
+.ve-media wc:Pteris_sp_2878.jpg right weidth=300px height=300px fit=cover
 
 Κόβει βλαστάρια τρυφερά, τὴ ==φτέρη=={zoomto=} ξεφυλλίζει, / παίρνει ἕνα κρίθινο ψωμί, στὴ μέση τὸ χωρίζει / 
 
