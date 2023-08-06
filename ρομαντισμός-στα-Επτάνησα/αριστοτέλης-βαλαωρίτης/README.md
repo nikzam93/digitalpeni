@@ -34,6 +34,6 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
-## Φωτεινός {href=/ρομαντισμός-στα-Επτάνησα/αριστοτέλης-βαλαωρίτης/Φωτεινός/README.md}
+## Φωτεινός {href=/ρομαντισμός-στα-Επτάνησα/αριστοτέλης-βαλαωρίτης/Φωτεινός}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
