@@ -550,9 +550,9 @@
 
 .ve-media wc:Salvia_officinalis0.jpg right weidth=300px height=300px fit=cover
 
-Μοσχοβολᾷ ἡ ==ἀλιφασκιά=={zoomto=0,240,640,2}, μικρή μου Ναθαλοῦλα, / τὰ ==ρίκη=={zoomto=0,1943,3672,2191}, ᾕ δάφναις, ᾕ μυρτιαὶς 
+Μοσχοβολᾷ ἡ ==ἀλιφασκιά=={zoomto=0,240,640,2}, μικρή μου Ναθαλοῦλα, / 
 
-ποτίζονται δροσοῦλα / 
+τὰ ==ρίκη=={zoomto=0,1943,3672,2191}, ᾕ δάφναις, ᾕ μυρτιαὶς ποτίζονται δροσοῦλα / 
 
 .ve-media wc:Calluna_vulgaris_kz08.jpg right weidth=300px height=300px fit=cover
 
