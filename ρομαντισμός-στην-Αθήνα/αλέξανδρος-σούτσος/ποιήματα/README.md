@@ -198,9 +198,9 @@
 
 ==ἀνεμώνη=={zoomto=0,584,2848,1494}, /
 
-.ve-media wc:Helichrysum_italicum_in_Kyoto.jpg right weidth=300px height=300px fit=cover
+.ve-media wc:Helichrysum_plicatum_kz01.jpg right weidth=300px height=300px fit=cover
 
-Ὅπου τὴν ξανθήν του κόμην ὁ ==ἐλίχρυσος=={zoomto=1214,1574,3000} ἁπλώνει, / Καὶ πυκναὶ καὶ γηραλέαι /
+Ὅπου τὴν ξανθήν του κόμην ὁ ==ἐλίχρυσος=={zoomto=} ἁπλώνει, / Καὶ πυκναὶ καὶ γηραλέαι /
 
 Χύνουσι σκιὰν καὶ δρόσον αἱ φιλόξενοι ἐλαῖαι. (σ. 151)
 
