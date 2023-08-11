@@ -188,19 +188,19 @@
 
 .ve-media wc:Ficus_sycomorus_in_Tel_Aviv-Yafo_01.jpg right weidth=300px height=300px fit=cover
 
-Κεῖται μεταξὺ πρασίνων ==συκομόρων=={zoomto=} καὶ φοινίκων / Εἰς πεδίον, ὅπου θάλλει 
+Κεῖται μεταξὺ πρασίνων ==συκομόρων=={zoomto=0,6,3264,1712} καὶ φοινίκων / Εἰς πεδίον, ὅπου θάλλει 
 
 .ve-media wc:Foeniculum_vulgare07.jpg right weidth=300px height=300px fit=cover
 
-==μάραθον=={zoomto=} καὶ 
+==μάραθον=={zoomto=0,1112,2448,1284} καὶ 
 
 .ve-media wc:Anemone_nemorosa_close_up.jpg right weidth=300px height=300px fit=cover
 
-==ἀνεμώνη=={zoomto=}, /
+==ἀνεμώνη=={zoomto=0,584,2848,1494}, /
 
 .ve-media wc:Helichrysum_italicum_in_Kyoto.jpg right weidth=300px height=300px fit=cover
 
-Ὅπου τὴν ξανθήν του κόμην ὁ ==ἐλίχρυσος=={zoomto=} ἁπλώνει, / Καὶ πυκναὶ καὶ γηραλέαι /
+Ὅπου τὴν ξανθήν του κόμην ὁ ==ἐλίχρυσος=={zoomto=1214,1574,3000} ἁπλώνει, / Καὶ πυκναὶ καὶ γηραλέαι /
 
 Χύνουσι σκιὰν καὶ δρόσον αἱ φιλόξενοι ἐλαῖαι. (σ. 151)
 
