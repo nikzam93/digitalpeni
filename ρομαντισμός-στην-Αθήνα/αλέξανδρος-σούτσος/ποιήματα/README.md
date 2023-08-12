@@ -250,7 +250,7 @@
 
 ### Ὁ σημαιοφόρος του ἀγῶνος
 
-.ve-media wc:Reserva_Particular_do_Patrimônio_Natural_Papagaio-de-Altitude_-_Liu_Idárraga_Orozco_(06).jpg weidth=300px height=300px fit=cover
+.ve-media wc:Blackberry_fruits_2008_G1.jpg weidth=300px height=300px fit=cover
 
 Καὶ κατόπι της θὰ τρέχουν εἰς ταῖς πέτραις, εἰς τοὺς ==βάτους=={zoomto=} / Σκέλεθρα τρομακτικά, / 
 
