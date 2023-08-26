@@ -1,5 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikoletazampaki@hotmail.com 
-
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikoletazampaki@hotmail.com
     - [Αρχική](/)
     - [Μεταδιδακτορική Έρευνα](/έρευνα)
     - [Αρκαδισμός](/αρκαδισμός)
