@@ -28,7 +28,7 @@
 
 **Με την ευγενική υποστήριξη των [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/) και της Ψηφιακής Βιβλιοθήκης Νεοελληνικών Σπουδών ΑΝΕΜΗ του Πανεπιστημίου Κρήτης.**
 
-[!ΙΠΕΠ](https://digitalpeni.org/images/logo_ipep.jpeg){style=height:80px}](https://www.ipep-gr.org/)) **Η παρούσα μεταδιδακτορική έρευνα χρηματοδοτείται από το Ίδρυμα Παιδείας και Ευρωπαϊκού Πολιτισμού.** 
+[!ΙΠΕΠ](https://digitalpeni.org/images/logo_ipep.jpeg){style=height:80px}](https://www.ipep-gr.org/) **Η παρούσα μεταδιδακτορική έρευνα χρηματοδοτείται από το Ίδρυμα Παιδείας και Ευρωπαϊκού Πολιτισμού.** 
 
 ## Πρώτες δεκαετίες 19ου αιώνα-Μεσοπολεμικά χρόνια (1920-1940)
 
