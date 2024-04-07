@@ -26,6 +26,6 @@
 
 # Ποιητικό Έργο {.cards}
 
-## Ποιήματα {href=/ρομαντισμός-στην-Αθήνα/παναγιώτης-σούτσος/ποιήματα}
+## Ποιήματα {href=/ρομαντισμός-στην-Αθήνα/παναγιώτης-σούτσος/ποιήματα}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
