@@ -26,7 +26,9 @@
 
 [![ΕΚΠΑ](https://digitalpeni.org/images/logo_NKUA.png){style=height:80px}](https://www.uoa.gr/) **Φιλοσοφική Σχολή**, **Τμήμα Φιλολογίας** [![Digital Peni](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px}](https://digitalpeni.org/) [![ORCID](https://digitalpeni.org/images/ORCID_logo.png){style=height:80px}](https://orcid.org/0000-0003-3469-9318)
 
-**Με την ευγενική υποστήριξη των [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/) και της Ψηφιακής Βιβλιοθήκης Νεοελληνικών Σπουδών ΑΝΕΜΗ του Πανεπιστημίου Κρήτης.** **2ο Βραβείο στα DH Awards 2023**
+**Με την ευγενική υποστήριξη των [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/) και της Ψηφιακής Βιβλιοθήκης Νεοελληνικών Σπουδών ΑΝΕΜΗ του Πανεπιστημίου Κρήτης** 
+
+**2ο Βραβείο στα DH Awards 2023**
 
 [![ΙΠΕΠ](https://digitalpeni.org/images/logo_ipep.png){style=height:150px}](https://www.ipep-gr.org/) 
 **Η παρούσα μεταδιδακτορική έρευνα χρηματοδοτείται από το Ίδρυμα Παιδείας και Ευρωπαϊκού Πολιτισμού.** 
