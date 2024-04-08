@@ -28,7 +28,7 @@
 
 **Με την ευγενική υποστήριξη των [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/) και της Ψηφιακής Βιβλιοθήκης Νεοελληνικών Σπουδών ΑΝΕΜΗ του Πανεπιστημίου Κρήτης** 
 
-**2ο Βραβείο στα DH Awards 2023** [![DH Awards 2023](https://digitalpeni.org/images/DH_Awards_2023.png){style=height:60px}](http://dhawards.org/dhawards2023/results/) 
+**2ο Βραβείο στα DH Awards 2023 για το καλύτερο ψηφιακό εργαλείο ή ομάδα εργαλείων για τη δημιουργία μιας ψηφιακής βάσης** [![DH Awards 2023](https://digitalpeni.org/images/DH_Awards_2023.png){style=height:60px}](http://dhawards.org/dhawards2023/results/) 
 
 [![ΙΠΕΠ](https://digitalpeni.org/images/logo_ipep.png){style=height:150px}](https://www.ipep-gr.org/) 
 **Η παρούσα μεταδιδακτορική έρευνα χρηματοδοτείται από το Ίδρυμα Παιδείας και Ευρωπαϊκού Πολιτισμού.** 
