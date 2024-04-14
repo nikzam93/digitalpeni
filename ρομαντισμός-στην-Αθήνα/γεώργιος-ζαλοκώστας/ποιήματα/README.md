@@ -470,7 +470,7 @@
 
 .ve-media wc:Gewöhnliche_Margarite,_NSG_Regentalaue.jpg right weidth=300px height=300px fit=cover
 
-Κ᾽ ἔλαμπον οἱ φωτοβόλοι / ==Μαργαρῖται=={zoomto=} τῆς αὐγῆς. (σ. 438) 
+Κ᾽ ἔλαμπον οἱ φωτοβόλοι / ==Μαργαρῖται=={zoomto=0,328,3264,1712} τῆς αὐγῆς. (σ. 438) 
 
 ### Β
 
