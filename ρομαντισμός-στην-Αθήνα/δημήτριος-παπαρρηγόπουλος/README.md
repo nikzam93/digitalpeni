@@ -26,7 +26,7 @@
 
 # Ποιητικό Έργο {.cards}
 
-## Ποιήματα {href=/ρομαντισμός-στην-Αθήνα/δημήτριος-παπαρρηγόπουλος/ποιήματα/README.md}
+## Ποιήματα {href=/ρομαντισμός-στην-Αθήνα/δημήτριος-παπαρρηγόπουλος/ποιήματα}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
 
