@@ -26,4 +26,9 @@
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)
 
+# Ποιητικό Έργο {.cards}
 
+## Ποιήματα {href=/ρομαντισμός-στην-Αθήνα/ηλίας-τανταλίδης/ποιήματα}
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/ff/Inoxcrom_Wall_Street._Nib._M.jpg)
+ρομαντισμός-στην-Αθήνα/ηλίας-τανταλίδης/ποιήματα/README.md
