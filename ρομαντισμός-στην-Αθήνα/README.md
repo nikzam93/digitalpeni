@@ -50,10 +50,6 @@
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b9/Dimitris_Paparrigopoulos.JPG)
 
-## Σπυρίδων Βασιλειάδης {href=/ρομαντισμός-στην-Αθήνα/σπυρίδων-βασιλειάδης}
-
-![](https://upload.wikimedia.org/wikipedia/commons/2/2b/Spiridon_Basileiadis.JPG)
-
 ## Ηλίας Τανταλίδης {href=/ρομαντισμός-στην-Αθήνα/ηλίας-τανταλίδης}
 
 ![](https://digitalpeni.org/ρομαντισμός-στην-Αθήνα/tantalidis.jpg)
