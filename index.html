@@ -74,10 +74,8 @@
         loadPage() {
           let url = `https://api.juncture-digital.org/html/${this.prefix}/${this.path}${this.path === '' ? '' : '/'}?base=${this.baseQarg}&prefix=${this.prefix}&inline=true`
           if (this.ref) url += `&ref=${this.ref}`
-          console.log("Retrieving text")
           fetch(url).then(resp => resp.text())
           .then(html => {
-            console.log("Starting html parsing")
             let [head, body] = new DOMParser().parseFromString(html, 'text/html').children[0].children
             let titleEl = head.querySelector('title')
             if (titleEl) document.querySelector('title').innerText = titleEl.innerText
@@ -85,8 +83,8 @@
             // Loads stylesheets and scripts used by loaded page
             this.loadDependencies(head.querySelectorAll('link[rel="stylesheet"]'), 0, () => this.loadDependencies(head.querySelectorAll('style'), 0))
             this.loadDependencies(body.querySelectorAll('script'), 0)
-            console.log("Replacing hidden class")
-            body.classList.replace('hidden', 'visible')
+            const b = document.querySelector('body') 
+            b.classList.replace('hidden', 'visible')
           })
         },
         
