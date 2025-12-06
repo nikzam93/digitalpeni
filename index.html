@@ -83,6 +83,7 @@
             // Loads stylesheets and scripts used by loaded page
             this.loadDependencies(head.querySelectorAll('link[rel="stylesheet"]'), 0, () => this.loadDependencies(head.querySelectorAll('style'), 0))
             this.loadDependencies(body.querySelectorAll('script'), 0)
+            body.classList.replace('hidden', 'visible')
           })
         },
         
