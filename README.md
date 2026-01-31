@@ -5,10 +5,6 @@
     - [Νεοκλασικισμός](/νεοκλασικισμός)
     - [Ρομαντισμός στα Επτάνησα](/ρομαντισμός-στα-Επτάνησα)
     - [Ρομαντισμός στην Αθήνα](/ρομαντισμός-στην-Αθήνα)
-    - [Αντι-ρομαντικές τάσεις στην Αθήνα](/αντι-ρομαντικές-τάσεις-στην-Αθήνα)
-    - [Παρνασσισμός και Συμβολισμός](/παρνασσισμός-συμβολισμός)
-    - [Συμβολισμός και Μετα-συμβολισμός](/συμβολισμός-μετα-συμβολισμός)
-    - [Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία: Υπερρεαλισμός](/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός)
     - [Επικοινωνία](/contact)
  
 <style>
@@ -20,7 +16,7 @@
 .ve-footer
     - Powered by Juncture[![Juncture Logo](https://juncture-digital.github.io/juncture/static/images/juncture-logo.png)](https://juncture-digital.org)
     - [![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-    - ©2025 Ψηφιακές Οικολογίες
+    - ©2026 Ψηφιακές Οικολογίες
     - Βρείτε μας στο Twitter[![Twitter](https://digitalpeni.org/images/Twitter_logo_1.png)](https://twitter.com/digitalpeni) και στο Facebook[![Facebook](https://digitalpeni.org/images/FB_logo.png)](https://www.facebook.com/digitalpeni/)
     - [Αρχική](/)
 
@@ -53,23 +49,3 @@
 #### Ρομαντισμός στην Αθήνα {href=/ρομαντισμός-στην-Αθήνα}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg/177px-H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
-
-
-#### Αντι-ρομαντικές τάσεις στην Αθήνα {href=/αντι-ρομαντικές-τάσεις-στην-Αθήνα}
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/187px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
-
-
-#### Παρνασσισμός και Συμβολισμός {href=/παρνασσισμός-συμβολισμός}
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Spadino_-_Dead_Nature_-_Google_Art_Project.jpg/202px-Spadino_-_Dead_Nature_-_Google_Art_Project.jpg)
-
-
-#### Συμβολισμός και Μετα-συμβολισμός {href=/συμβολισμός-μετα-συμβολισμός}
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg/219px-Shadow_Of_Dream._Oil_On_Canvas._2018._by_Ala_Bashir.jpg)
-
-
-#### Μοντερνισμός. Υψηλός Μοντερνισμός και Πρωτοπορία (Υπερρεαλισμός) {href=/μοντερνισμός-υψηλός-μοντερνισμός-πρωτοπορία-υπερρεαλισμός}
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg/320px-Paul_C%C3%A9zanne_-_Nature_morte_-_Google_Art_Project.jpg)
