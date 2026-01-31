@@ -47,5 +47,4 @@
 
  
 #### Ρομαντισμός στην Αθήνα {href=/ρομαντισμός-στην-Αθήνα}
-![](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg/177px-H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
