@@ -1,4 +1,4 @@
-.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου-20ού αιώνα" contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikoletazampaki@hotmail.com
+.ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Η χρήση του ψηφιακού εργαλείου Juncture στη Νεοελληνική Ποίηση του 19ου αιώνα" contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikoletazampaki@hotmail.com
     - [Αρχική](/)
     - [Μεταδιδακτορική Έρευνα](/έρευνα)
     - [Αρκαδισμός](/αρκαδισμός)
@@ -26,7 +26,7 @@
 
 **2ο Βραβείο στα DH Awards 2023 για το καλύτερο ψηφιακό εργαλείο ή ομάδα εργαλείων για τη δημιουργία μιας ψηφιακής βάσης** [![DH Awards 2023](https://digitalpeni.org/images/DH_Awards_2023.png){style=height:60px}](http://dhawards.org/dhawards2023/results/) 
 
-## Πρώτες δεκαετίες 19ου αιώνα-Μεσοπολεμικά χρόνια (1920-1940)
+## 19ος αιώνας
 
 ### Οι ποιητικές/καλλιτεχνικές αναπαραστάσεις της χλωρίδας {.cards}
 
@@ -47,5 +47,6 @@
 
  
 #### Ρομαντισμός στην Αθήνα {href=/ρομαντισμός-στην-Αθήνα}
+![](https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg/177px-H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
