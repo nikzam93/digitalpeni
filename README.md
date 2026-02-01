@@ -24,7 +24,7 @@
 
 **Με την ευγενική υποστήριξη των [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/) και της Ψηφιακής Βιβλιοθήκης Νεοελληνικών Σπουδών ΑΝΕΜΗ του Πανεπιστημίου Κρήτης** 
 
-**2ο Βραβείο στα DH Awards 2023 για το καλύτερο ψηφιακό εργαλείο ή ομάδα εργαλείων για τη δημιουργία μιας ψηφιακής βάσης** [![DH Awards 2023](https://digitalpeni.org/images/DH_Awards_2023.png){style=height:60px}](http://dhawards.org/dhawards2023/results/) 
+**2ο Βραβείο στα DH Awards 2023 για το καλύτερο ψηφιακό εργαλείο ή ομάδα εργαλείων για τη δημιουργία μιας ψηφιακής βάσης** [![DH Awards 2023](https://digitalpeni.org/images/DH_Awards_2023.png){style=height:60px}](http://dhawards.org/dhawards2023/results/)
 
 ## 19ος αιώνας
 
