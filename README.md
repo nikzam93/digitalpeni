@@ -22,13 +22,13 @@
 
 [![ΕΚΠΑ](https://digitalpeni.org/images/logo_NKUA.png){style=height:80px}](https://www.uoa.gr/) **Φιλοσοφική Σχολή**, **Τμήμα Φιλολογίας** [![Digital Peni](https://digitalpeni.org/images/post-doc-logo.png){style=height:100px}](https://digitalpeni.org/) [![ORCID](https://digitalpeni.org/images/ORCID_logo.png){style=height:80px}](https://orcid.org/0000-0003-3469-9318)
 
-**Με την ευγενική υποστήριξη των [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/) και της Ψηφιακής Βιβλιοθήκης Νεοελληνικών Σπουδών ΑΝΕΜΗ του Πανεπιστημίου Κρήτης** 
+**Με την ευγενική υποστήριξη των [![Jstor Labs](https://digitalpeni.org/images/Jstor_Labs_logo.png){style=height:60px}](https://labs.jstor.org/) και της Ψηφιακής Βιβλιοθήκης Νεοελληνικών Σπουδών ΑΝΕΜΗ του Πανεπιστημίου Κρήτης**
 
 **2ο Βραβείο στα DH Awards 2023 για το καλύτερο ψηφιακό εργαλείο ή ομάδα εργαλείων για τη δημιουργία μιας ψηφιακής βάσης** [![DH Awards 2023](https://digitalpeni.org/images/DH_Awards_2023.png){style=height:60px}](http://dhawards.org/dhawards2023/results/)
 
 ## 19ος αιώνας
 
-### Οι ποιητικές/καλλιτεχνικές αναπαραστάσεις της χλωρίδας {.cards}
+### Οι ποιητικές αναφορές στη χλωρίδα {.cards}
 
 
 #### Αρκαδισμός {href=/αρκαδισμός}
