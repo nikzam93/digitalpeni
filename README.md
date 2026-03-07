@@ -1,8 +1,6 @@
 .ve-header "Ψηφιακές Οικολογίες" wc:The_beautiful_white_rose_flower.jpg "Ψηφιακές Οικολογίες της Χλωρίδας: η χρήση του ψηφιακού εργαλείου Juncture στην ποίηση του Ελληνικού Ρομαντισμού (19ος αι.)" contact-form-title="Φόρμα Επικοινωνίας" contact-subject="Φόρμα Επικοινωνίας" contact=nikoletazampaki@hotmail.com
     - [Αρχική](/)
     - [Μεταδιδακτορική Έρευνα](/έρευνα)
-    - [Αρκαδισμός](/αρκαδισμός)
-    - [Νεοκλασικισμός](/νεοκλασικισμός)
     - [Ρομαντισμός στα Επτάνησα](/ρομαντισμός-στα-Επτάνησα)
     - [Ρομαντισμός στην Αθήνα](/ρομαντισμός-στην-Αθήνα)
     - [Επικοινωνία](/contact)
@@ -29,17 +27,6 @@
 ## 19ος αιώνας
 
 ### Οι ποιητικές αναφορές στη χλωρίδα {.cards}
-
-
-#### Αρκαδισμός {href=/αρκαδισμός}
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nature_View_3.jpg/384px-Nature_View_3.jpg)
-
-
-#### Νεοκλασικισμός {href=/νεοκλασικισμός}
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Classical_landscape_with_small_waterfall_and_village.jpg/320px-Classical_landscape_with_small_waterfall_and_village.jpg)
-
  
 #### Ρομαντισμός στα Επτάνησα {href=/ρομαντισμός-στα-Επτάνησα}
 
