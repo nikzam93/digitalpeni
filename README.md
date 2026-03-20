@@ -33,4 +33,4 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/8/89/Simonis_%26_Buunk_%E2%80%93_Pieter_Hendrik_Koekkoek_%E2%80%93_A_view_of_a_park.jpg)
  
 #### Ρομαντισμός στην Αθήνα {href=/ρομαντισμός-στην-Αθήνα}
-![](https://commons.wikimedia.org/wiki/File:H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/H.P._Koekkoek_-_A_peasant_leading_a_donkey_cart_in_an_extensive_wooded_landscape.jpg)
